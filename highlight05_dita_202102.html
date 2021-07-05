@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewpoint" content="width=device-width, initial-scale=1.0">
+    <title>Quasi.id</title>
+    <link rel="stylesheet" href="/css/master.css">
+    <!-- <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz:wght@200;400;700&display=swap" rel="stylesheet"> -->
+    <link rel="stylesheet" href="https://indestructibletype.com/fonts/Jost.css" type="text/css" charset="utf-8">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="undefined" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.3.5/css/swiper.min.css">
+    <link rel="shortcut icon" type="image/x-icon" href="./figures/favicon.ico">
+  </head>
+  <body>
+
+      <!-- HOME -->
+
+      <section class="researchHeader">
+          <nav>
+            <a href="index.html"><img src="/figures/logo.png"></a>
+            <div class="nav-links" id="navLinks">
+              <i class="fa fa-window-close" onclick="hideMenu()"></i>
+              <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="research.html">Research</a></li>
+                <li><a href="team.html">Team</a></li>
+                <li><a href="publications.html">Publications</a></li>
+                <li><a href="">Download</a></li>
+                <li><a href="contact.html">Contact</a></li>
+              </ul>
+            </div>
+            <i class="fa fa-bars" onclick="showMenu()"></i>
+          </nav>
+          <h1>Fresh from the Oven</h1>
+      </section>
+
+      <!-- POST SLIDER -->
+
+      <div class="highlightBox">
+      <div class="highBox-item">
+      <div class="highBox-img"> <img src="./figures/paper_dita_202102.png"></div>
+      <div class="highBox-content">
+      <div class="highBox-title">Analysis of the Ordering Effects in Anthraquinone Thin Films
+        and Its Potential Application for Sodium Ion Batteries</div>
+      <div class="highBox-author">
+        D. Werner, D. H. Apaydin, D. Wielend, K. Geistlinger,
+        <a href="./team/wahy040.html">W. D. Saputri</a>,
+        U. J. Griesser, E. Dražević, T. S. Hofer, and E. Portenkirchner
+      </div>
+      <div class="highBox-abstract"><b>Abstract</b> ---
+        The ordering effects in anthraquinone (AQ) stacking forced by thin-film application and its
+        influence on dimer solubility and current collector adhesion are investigated. The structural
+        characteristics of AQ and its chemical environment are found to have a substantial influence on
+        its electrochemical performance. Computational investigation for different charged states of AQ
+        on a carbon substrate obtained via basin hopping global minimization provides important insights
+        into the physicochemical thin-film properties. The results reveal the ideal stacking configurations
+        of the individual AQ-carrier systems and show ordering effects in a periodic supercell environment.
+        The latter reveals the transition from intermolecular hydrogen bonding toward the formation of
+        salt bridges between the reduced AQ units and a stabilizing effect upon the dimerlike rearrangement,
+        while the strong surface–molecular interactions in the thin-film geometries are found to be crucial
+        for the formed dimers to remain electronically active. Both characteristics, the improved current
+        collector adhesion and the stabilization due to dimerization, are mutual benefits of thin-film electrodes
+        over powder-based systems. This hypothesis has been further investigated for its potential application
+        in sodium ion batteries. Our results show that AQ thin-film electrodes exhibit significantly better
+        specific capacities (233 vs 87 mAh g–1 in the first cycle), Coulombic efficiencies, and long-term
+        cycling performance (80 vs 4 mAh g–1 after 100 cycles) over the AQ powder electrodes.
+        By augmenting the experimental findings via computational investigations, we are able to suggest design
+        strategies that may foster the performance of industrially desirable powder-based electrode materials.
+      </div>
+      <span class="highBox-link">
+        <a href="https://doi.org/10.1021/acs.jpcc.0c10778">J. Phys. Chem. C <b>125</b>, 3745 (2021)</a>
+      </span>
+      <a href="./publications.html" class="highBox-Button">Back to Publications</a>
+      </div>
+      </div>
+      </div>
+
+      <!-- FOOTER -->
+
+      <section class="footer">
+        <h4>About Us</h4>
+        <div class="icons">
+          <i class="fa fa-facebook"></i>
+          <i class="fa fa-twitter"></i>
+          <i class="fa fa-instagram"></i>
+          <i class="fa fa-linkedin"></i>
+        </div>
+        <p>QUASI: QUantum design and SImulation<br>Research Center for Physics
+        <br>Indonesian Institute of Sciences</p>
+        <p>Made with <i class="fa fa-heart-o"></i> by @lim8ong</p>
+      </section>
+
+      <!-- JS FOR TOGGLE MENU -->
+
+      <script>
+        var navLinks = document.getElementById("navLinks");
+        function showMenu(){
+          navLinks.style.right="0px";
+        }
+        function hideMenu(){
+          navLinks.style.right="-200px";
+        }
+      </script>
+
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.3.5/js/swiper.min.js"></script>
+      <script src="./js/scripts.js"></script>
+
+  </body>
+</html>

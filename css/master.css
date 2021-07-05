@@ -254,6 +254,7 @@ nav .fa{
     position: relative;
     overflow: hidden;
     height: 150px;
+    box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.3);
 }
 .researchGraph img{
     width: 100%;
@@ -1046,4 +1047,148 @@ nav .fa{
 }
 .contact-col div h5{
   font-size: 20px;
+}
+
+/* HIGHLIGHT */
+
+.highlightBox{
+  width: 95%;
+  position: relative;
+  max-width: 800px;
+  margin: auto;
+  background: #FFF3F3;
+  box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.3);
+  margin-top: 30px;
+  margin-bottom: 30px;
+  padding: 25px;
+  border-radius: 25px;
+  height: auto;
+  transition: all 0.3s;
+}
+@media screen and (max-width: 992px) {
+  .highlightBox{
+    max-width: 680px;
+    height: auto;
+  }
+}
+@media screen and (max-width: 768px) {
+  .highlightBox{
+    max-width: 500px;
+    height: auto;
+    margin: 180px auto;
+  }
+}
+@media screen and (max-width: 400px) and (min-width: 992px){
+  .highlightBox{
+    height: auto;
+  }
+}
+
+.highBox-item{
+  display: flex;
+  align-items: center;
+}
+@media screen and (max-width: 768px){
+  .highBox-item{
+    flex-direction: column;
+  }
+}
+
+.highBox-img{
+  width: 300px;
+  flex-shrink: 0;
+  height: 300px;
+  box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.3);
+  border-radius: 20px;
+  transform: translateX(-80px);
+  overflow: hidden;
+}
+
+.highBox-img img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+@media screen and (max-width: 768px){
+  .highBox-img{
+    transform: translateY(-50px);
+    width: 70%;
+  }
+}
+@media screen and (max-width: 576px){
+  .highBox-img{
+    width: 75%;
+  }
+}
+@media screen and (max-width: 500px) and (min-width: 992px){
+  .highBox-img{
+    height: 270px;
+  }
+}
+.highBox-content{
+  padding-right: 25px;
+}
+@media screen and (max-width: 768px){
+  .chighBox-content{
+    margin-top: -80px;
+    text-align: center;
+    padding: 0 30px;
+  }
+}
+@media screen and (max-width: 576px){
+  .highBox-content{
+    padding: 0;
+  }
+}
+.highBox-title{
+  font-size: 24px;
+  font-weight: 700;
+  color: #FFF;
+  margin-bottom: 20px;
+  background: #276722;
+  border-radius: 10px;
+  padding:20px;
+}
+@media screen and (max-width: 768px) {
+  .highBox-title{
+    margin-top: 80px;
+  }
+}
+.highBox-author{
+  color: #7B7992;
+  margin-bottom: 20px;
+  display: block;
+  font-weight: 500;
+}
+.highBox-abstract{
+  color: #202020;
+  margin-bottom: 30px;
+}
+.highBox-link{
+  color: #7B7992;
+  margin-bottom: 20px;
+  display: block;
+  font-weight: 500;
+}
+.highBox-Button{
+  display: inline-flex;
+  background: #21507D;
+  padding: 15px 35px;
+  border-radius: 50px;
+  color: #FFF;
+  text-decoration: none;
+  font-weight: 500;
+  justify-content: center;
+  text-align: center;
+  letter-spacing: 1px;
+}
+.highBox-Button:hover{
+  background: #F5C030;
+  color: #202020;
+}
+@media screen and (max-width: 576px) {
+  .highBox-Button{
+    width: 50%;
+  }
 }

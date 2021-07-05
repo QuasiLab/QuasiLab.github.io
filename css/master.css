@@ -249,8 +249,10 @@ nav .fa{
     flex-basis: 28%;
     background: #FFF;
     margin-bottom: 30px;
+    border-radius: 20px;
     position: relative;
     overflow: hidden;
+    height: 150px;
 }
 .researchGraph__image{
     width: 100%;

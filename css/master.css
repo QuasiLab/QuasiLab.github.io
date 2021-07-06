@@ -185,12 +185,12 @@ nav .fa{
   and (-webkit-min-device-pixel-ratio: 3)
   and (orientation: portrait) {
   .text-box h1{
-    zoom: 2;
+    zoom: 3;
     font-size: 30px;
     color: #202020;
   }
   .text-box p{
-    zoom: 2;
+    zoom: 3;
     font-size: 16px;
     color: #202020;
   }
@@ -198,11 +198,11 @@ nav .fa{
     width: 150px;
   }
   .nav-links ul li{
-    zoom: 2;
+    zoom: 3;
     display: block;
   }
   .nav-links{
-    zoom: 2;
+    zoom: 3;
     position: fixed;
     background: #21507D;
 
@@ -228,7 +228,7 @@ nav .fa{
     padding: 30px;
   }
   nav .fa-window-close{
-    zoom: 2;
+    zoom: 3;
     display: block;
     color: #fff;
     font-size: 30px;
@@ -236,7 +236,7 @@ nav .fa{
     padding-left: 5px;
   }
   nav .fa-window-close:hover{
-    zoom: 2;
+    zoom: 3;
     display: block;
     color: #F5C030;
     font-size: 31px;
@@ -257,7 +257,7 @@ nav .fa{
     transition: 0.5s;
   }
   .prime-btn{
-    zoom: 2;
+    zoom: 3;
     display: inline-block;
     border-radius: 2em;
     text-decoration: none;

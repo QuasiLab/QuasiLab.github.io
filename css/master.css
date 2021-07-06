@@ -390,16 +390,17 @@ nav .fa{
 .subgroup1{
     width: 80%;
     margin: auto;
-    text-align: center;
     padding-top: 100px;
 }
 .subgroup1 h2{
     font-size: 36px;
     font-weight: 800;
+    text-align: center;
     color: #21507D;
 }
 .subgroup1 p{
     padding: 30px;
+    text-align: justify;
 }
 .researchList{
     margin: auto;
@@ -477,7 +478,12 @@ nav .fa{
     .researchList{
       flex-direction: column;
     }
-
+    .researchDesc{
+      margin-bottom: 50px;
+    }
+    .researchGraph{
+      height: 100%;
+    }
 }
 
 /* subgroup2 */
@@ -485,16 +491,17 @@ nav .fa{
 .subgroup2{
     width: 80%;
     margin: auto;
-    text-align: center;
     padding-top: 100px;
 }
 .subgroup2 h2{
     font-size: 36px;
     font-weight: 800;
+    text-align: center;
     color: #21507D;
 }
 .subgroup2 p{
     padding: 30px;
+    text-align: justify;
 }
 .researchList{
     width: 80%;
@@ -563,11 +570,16 @@ nav .fa{
   and (min-width: 412px)
   and (max-width: 767px)
   and (orientation: portrait){
+    .subgroup2{
+        width: 95%;
+    }
     .researchList{
       flex-direction: column;
     }
-    .researchGraph img{
-      width: 100%;
+    .researchDesc{
+      margin-bottom: 50px;
+    }
+    .researchGraph{
       height: 100%;
     }
 }

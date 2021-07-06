@@ -110,9 +110,9 @@ nav .fa{
     background: #21507D;
 
     height: 100vh;
-    width: 200px;
+    width: 300px;
     top: 0;
-    right: -200px;
+    right: -300px;
     text-align: left;
     z-index: 2;
     transition: 1s;
@@ -184,9 +184,30 @@ nav .fa{
   and (max-device-width: 736px)
   and (-webkit-min-device-pixel-ratio: 3)
   and (orientation: portrait),
+  only screen
   and (min-device-width: 320px)
   and (max-device-width: 568px)
   and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: portrait),
+  only screen
+  and (min-device-width: 375px)
+  and (max-device-width: 812px)
+  and (-webkit-min-device-pixel-ratio: 3)
+  and (orientation: portrait),
+  only screen
+  and (device-width: 320px)
+  and (device-height: 640px)
+  and (-webkit-device-pixel-ratio: 2)
+  and (orientation: portrait),
+  only screen
+  and (device-width: 320px)
+  and (device-height: 640px)
+  and (-webkit-device-pixel-ratio: 3)
+  and (orientation: portrait),
+  only screen
+  and (device-width: 360px)
+  and (device-height: 640px)
+  and (-webkit-device-pixel-ratio: 3)
   and (orientation: portrait) {
   .text-box h1{
     zoom: 3;

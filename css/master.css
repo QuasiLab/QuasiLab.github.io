@@ -213,12 +213,12 @@ nav .fa{
   and (max-width: 767px)
   and (orientation: portrait){
   .text-box h1{
-    zoom: 1.5;
+    zoom: 1.7;
     font-size: 30px;
     color: #202020;
   }
   .text-box p{
-    zoom: 1.5;
+    zoom: 1.7;
     font-size: 16px;
     color: #202020;
   }
@@ -226,7 +226,7 @@ nav .fa{
     zoom: 1.5;
   }
   .nav-links ul li{
-    zoom: 1.1;
+    zoom: 1.3;
     display: block;
   }
   .nav-links{
@@ -284,7 +284,7 @@ nav .fa{
     transition: 0.5s;
   }
   .prime-btn{
-    zoom: 1.2;
+    zoom: 1.3;
     display: inline-block;
     border-radius: 2em;
     text-decoration: none;
@@ -402,7 +402,6 @@ nav .fa{
     padding: 30px;
 }
 .researchList{
-    width: 80%;
     margin: auto;
     display: flex;
     justify-content: space-around;
@@ -472,9 +471,13 @@ nav .fa{
   and (min-width: 412px)
   and (max-width: 767px)
   and (orientation: portrait){
+    .subgroup1{
+        width: 95%;
+    }
     .researchList{
       flex-direction: column;
     }
+
 }
 
 /* subgroup2 */
@@ -767,6 +770,46 @@ nav .fa{
   transition: 0.5s;
   outline: 0
 }
+@media only screen
+  and (max-width: 700px),
+  only screen
+  and (min-device-width: 414px)
+  and (max-device-width: 736px)
+  and (-webkit-min-device-pixel-ratio: 3)
+  and (orientation: portrait),
+  only screen
+  and (min-device-width: 320px)
+  and (max-device-width: 568px)
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: portrait),
+  only screen
+  and (min-device-width: 375px)
+  and (max-device-width: 812px)
+  and (-webkit-min-device-pixel-ratio: 3)
+  and (orientation: portrait),
+  only screen
+  and (device-width: 320px)
+  and (device-height: 640px)
+  and (-webkit-device-pixel-ratio: 2)
+  and (orientation: portrait),
+  only screen
+  and (device-width: 320px)
+  and (device-height: 640px)
+  and (-webkit-device-pixel-ratio: 3)
+  and (orientation: portrait),
+  only screen
+  and (device-width: 360px)
+  and (device-height: 640px)
+  and (-webkit-device-pixel-ratio: 3)
+  and (orientation: portrait),
+  only screen
+  and (min-width: 412px)
+  and (max-width: 767px)
+  and (orientation: portrait){
+  .sub1-btn{
+    zoom:1.2;
+  }
+}
 
 /* subResearch2 Page */
 
@@ -799,6 +842,46 @@ nav .fa{
   color: #202020;
   transition: 0.5s;
   outline: 0
+}
+@media only screen
+  and (max-width: 700px),
+  only screen
+  and (min-device-width: 414px)
+  and (max-device-width: 736px)
+  and (-webkit-min-device-pixel-ratio: 3)
+  and (orientation: portrait),
+  only screen
+  and (min-device-width: 320px)
+  and (max-device-width: 568px)
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: portrait),
+  only screen
+  and (min-device-width: 375px)
+  and (max-device-width: 812px)
+  and (-webkit-min-device-pixel-ratio: 3)
+  and (orientation: portrait),
+  only screen
+  and (device-width: 320px)
+  and (device-height: 640px)
+  and (-webkit-device-pixel-ratio: 2)
+  and (orientation: portrait),
+  only screen
+  and (device-width: 320px)
+  and (device-height: 640px)
+  and (-webkit-device-pixel-ratio: 3)
+  and (orientation: portrait),
+  only screen
+  and (device-width: 360px)
+  and (device-height: 640px)
+  and (-webkit-device-pixel-ratio: 3)
+  and (orientation: portrait),
+  only screen
+  and (min-width: 412px)
+  and (max-width: 767px)
+  and (orientation: portrait){
+  .sub2-btn{
+    zoom:1.2;
+  }
 }
 
 /* Member Page */

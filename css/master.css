@@ -207,26 +207,29 @@ nav .fa{
   and (device-width: 360px)
   and (device-height: 640px)
   and (-webkit-device-pixel-ratio: 3)
-  and (orientation: portrait) {
+  and (orientation: portrait),
+  only screen
+  and (min-width: 412px)
+  and (max-width: 767px)
+  and (orientation: portrait){
   .text-box h1{
-    zoom: 3;
+    zoom: 1.5;
     font-size: 30px;
     color: #202020;
   }
   .text-box p{
-    zoom: 3;
+    zoom: 1.5;
     font-size: 16px;
     color: #202020;
   }
   nav img{
-    zoom: 2;
+    zoom: 1.5;
   }
   .nav-links ul li{
-    zoom: 1.5;
+    zoom: 1.1;
     display: block;
   }
   .nav-links{
-    zoom: 1.5;
     position: fixed;
     background: #21507D;
     height: 100vh;
@@ -341,7 +344,42 @@ nav .fa{
     font-weight: 600;
     margin: 10px 0;
 }
-@media(max-width: 700px){
+@media only screen
+  and (max-width: 700px),
+  only screen
+  and (min-device-width: 414px)
+  and (max-device-width: 736px)
+  and (-webkit-min-device-pixel-ratio: 3)
+  and (orientation: portrait),
+  only screen
+  and (min-device-width: 320px)
+  and (max-device-width: 568px)
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: portrait),
+  only screen
+  and (min-device-width: 375px)
+  and (max-device-width: 812px)
+  and (-webkit-min-device-pixel-ratio: 3)
+  and (orientation: portrait),
+  only screen
+  and (device-width: 320px)
+  and (device-height: 640px)
+  and (-webkit-device-pixel-ratio: 2)
+  and (orientation: portrait),
+  only screen
+  and (device-width: 320px)
+  and (device-height: 640px)
+  and (-webkit-device-pixel-ratio: 3)
+  and (orientation: portrait),
+  only screen
+  and (device-width: 360px)
+  and (device-height: 640px)
+  and (-webkit-device-pixel-ratio: 3)
+  and (orientation: portrait),
+  only screen
+  and (min-width: 412px)
+  and (max-width: 767px)
+  and (orientation: portrait){
     .row{
       flex-direction: column;
     }

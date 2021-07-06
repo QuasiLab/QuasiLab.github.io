@@ -195,14 +195,14 @@ nav .fa{
     color: #202020;
   }
   nav img{
-    width: 150px;
+    zoom: 2;
   }
   .nav-links ul li{
-    zoom: 3;
+    zoom: 1.5;
     display: block;
   }
   .nav-links{
-    zoom: 3;
+    zoom: 1.5;
     position: fixed;
     background: #21507D;
 
@@ -228,7 +228,7 @@ nav .fa{
     padding: 30px;
   }
   nav .fa-window-close{
-    zoom: 3;
+    zoom: 1.5;
     display: block;
     color: #fff;
     font-size: 30px;
@@ -236,7 +236,7 @@ nav .fa{
     padding-left: 5px;
   }
   nav .fa-window-close:hover{
-    zoom: 3;
+    zoom: 1.5;
     display: block;
     color: #F5C030;
     font-size: 31px;
@@ -244,6 +244,7 @@ nav .fa{
     padding-left: 5px;
   }
   nav .fa-bars{
+    zoom: 1.5;
     display: block;
     color: #276722;
     font-size: 30px;
@@ -257,7 +258,7 @@ nav .fa{
     transition: 0.5s;
   }
   .prime-btn{
-    zoom: 3;
+    zoom: 1.5;
     display: inline-block;
     border-radius: 2em;
     text-decoration: none;

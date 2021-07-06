@@ -183,6 +183,10 @@ nav .fa{
   and (min-device-width: 414px)
   and (max-device-width: 736px)
   and (-webkit-min-device-pixel-ratio: 3)
+  and (orientation: portrait),
+  and (min-device-width: 320px)
+  and (max-device-width: 568px)
+  and (-webkit-min-device-pixel-ratio: 2)
   and (orientation: portrait) {
   .text-box h1{
     zoom: 3;
@@ -258,99 +262,6 @@ nav .fa{
   }
   .prime-btn{
     zoom: 1.5;
-    display: inline-block;
-    border-radius: 2em;
-    text-decoration: none;
-    color: #fff;
-    border: 0px solid #fff;
-    padding: 12px 34px;
-    font-size: 16px;
-    background: #276722;
-    position: relative;
-    cursor: pointer;
-  }
-  .text-box{
-    width: 90%;
-    color: #202020;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%,-50%);
-    text-align: center;
-  }
-}
-@media only screen
-  and (min-device-width: 320px)
-  and (max-device-width: 568px)
-  and (-webkit-min-device-pixel-ratio: 2)
-  and (orientation: portrait) {
-  .text-box h1{
-    font-size: 30px;
-    color: #202020;
-  }
-  .text-box p{
-    font-size: 16px;
-    color: #202020;
-  }
-  nav img{
-    width: 150px;
-  }
-  .nav-links ul li{
-    display: block;
-  }
-  .nav-links{
-    position: fixed;
-    background: #21507D;
-
-    height: 100vh;
-    width: 200px;
-    top: 0;
-    right: -200px;
-    text-align: left;
-    z-index: 2;
-    transition: 1s;
-  }
-  .nav-links ul li a{
-    color: #fff;
-    text-decoration: none;
-    font-size: 20px;
-  }
-  .nav-links ul li a:hover{
-    color: #F5C030;
-    text-decoration: none;
-    font-size: 22px;
-  }
-  .nav-links ul{
-    padding: 30px;
-  }
-  nav .fa-window-close{
-    display: block;
-    color: #fff;
-    font-size: 30px;
-    cursor: pointer;
-    padding-left: 5px;
-  }
-  nav .fa-window-close:hover{
-    display: block;
-    color: #F5C030;
-    font-size: 31px;
-    cursor: pointer;
-    padding-left: 5px;
-  }
-  nav .fa-bars{
-    display: block;
-    color: #276722;
-    font-size: 30px;
-    cursor: pointer;
-  }
-  nav .fa-bars:hover{
-    display: block;
-    color: #21507D;
-    font-size: 31px;
-    cursor: pointer;
-    transition: 0.5s;
-  }
-  .prime-btn{
     display: inline-block;
     border-radius: 2em;
     text-decoration: none;

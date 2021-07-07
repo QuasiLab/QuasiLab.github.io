@@ -9,25 +9,24 @@
 <link href="https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz:wght@200;400;700&display=swap" rel="stylesheet"> -->
     <link rel="stylesheet" href="https://indestructibletype.com/fonts/Jost.css" type="text/css" charset="utf-8">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="undefined" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.3.5/css/swiper.min.css">
     <link rel="shortcut icon" type="image/x-icon" href="./figures/favicon.ico">
+
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-LZZRQK2PEY"></script>
     <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'G-LZZRQK2PEY');
-    </script>
-
-
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-LZZRQK2PEY');
+  </script>
   </head>
   <body>
 
       <!-- HOME -->
 
-      <section class="home">
+      <section class="researchHeader">
           <nav>
             <a href="index.html"><img src="/figures/logo.png"></a>
             <div class="nav-links" id="navLinks">
@@ -44,12 +43,12 @@
             </div>
             <i class="fa fa-bars" onclick="showMenu()"></i>
           </nav>
-          <div class="text-box">
-            <h1>Welcome to Our Research Group</h1>
-            <p>QUASI: QUAntum design and SImulation</p>
-            <a href="research.html" class="prime-btn">Visit us to know more</a>
-          </div>
+          <h1>Tutorial</h1>
       </section>
+
+      <h1 style="text-align: center; margin: auto; padding: 20px; color:#276722">Coming soon!</h1>
+      <img src="./figures/comingsoon.png" style="width:400px; display: block; margin-left: auto; margin-right:auto; margin-bottom:40px;">
+
 
       <!-- FOOTER -->
 
@@ -76,7 +75,12 @@
         function hideMenu(){
           navLinks.style.right="-300px";
         }
+
+        w3IncludeHTML();
       </script>
+
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.3.5/js/swiper.min.js"></script>
+      <script src="./js/scripts.js"></script>
 
   </body>
 </html>

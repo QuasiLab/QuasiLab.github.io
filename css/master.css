@@ -706,6 +706,46 @@ nav .fa{
     padding: 18px 0;
     color: #FFF;
 }
+@media only screen
+  and (max-width: 700px),
+  only screen
+  and (min-device-width: 414px)
+  and (max-device-width: 736px)
+  and (-webkit-min-device-pixel-ratio: 3)
+  and (orientation: portrait),
+  only screen
+  and (min-device-width: 320px)
+  and (max-device-width: 568px)
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (orientation: portrait),
+  only screen
+  and (min-device-width: 375px)
+  and (max-device-width: 812px)
+  and (-webkit-min-device-pixel-ratio: 3)
+  and (orientation: portrait),
+  only screen
+  and (device-width: 320px)
+  and (device-height: 640px)
+  and (-webkit-device-pixel-ratio: 2)
+  and (orientation: portrait),
+  only screen
+  and (device-width: 320px)
+  and (device-height: 640px)
+  and (-webkit-device-pixel-ratio: 3)
+  and (orientation: portrait),
+  only screen
+  and (device-width: 360px)
+  and (device-height: 640px)
+  and (-webkit-device-pixel-ratio: 3)
+  and (orientation: portrait),
+  only screen
+  and (min-width: 412px)
+  and (max-width: 767px)
+  and (orientation: portrait){
+    .footer{
+    zoom:1.2;
+    }
+}
 
 /* Research Page */
 

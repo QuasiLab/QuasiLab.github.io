@@ -66,12 +66,6 @@ nav img{
   font-size: 20px;
   color: #202020;
 }
-.news{
-  flex-basis: 68%;
-  background: #DFE7F6;
-  border-radius: 10px;
-  margin-bottom: 5%;
-}
 .prime-btn{
   display: inline-block;
   border-radius: 2em;

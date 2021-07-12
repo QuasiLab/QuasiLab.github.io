@@ -66,6 +66,12 @@ nav img{
   font-size: 20px;
   color: #202020;
 }
+.news{
+  flex-basis: 68%;
+  background: #DFE7F6;
+  border-radius: 10px;
+  margin-bottom: 5%;
+}
 .prime-btn{
   display: inline-block;
   border-radius: 2em;
@@ -1598,4 +1604,27 @@ nav .fa{
   .highBox-Button{
     width: 50%;
   }
+}
+
+.poster{
+  padding-top: 20px;
+  width: 80%;
+  height: auto;
+  margin: auto;
+}
+.poster img{
+  width:400px;
+  display: block;
+  margin-left: auto;
+  margin-right:auto;
+  margin-bottom:40px;
+}
+.posterDesc{
+  background: #DFE7F6;
+  border-radius: 10px;
+  margin-bottom: 5%;
+  padding:10px;
+}
+.posterDesc p{
+  margin-bottom: 20px;
 }

@@ -17,16 +17,11 @@
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-LZZRQK2PEY"></script>
     <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'G-LZZRQK2PEY');
-    </script>
-
-</script>
-
-
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-LZZRQK2PEY');
+  </script>
   </head>
   <body>
 
@@ -88,10 +83,18 @@
 
       <script>
         var navLinks = document.getElementById("navLinks");
-        function resizeIframe(obj) {
-  obj.style.height = obj.contentWindow.document.documentElement.scrollHeight + 'px';
-}
+        function showMenu(){
+          navLinks.style.right="0px";
+        }
+        function hideMenu(){
+          navLinks.style.right="-300px";
+        }
+
+        w3IncludeHTML();
       </script>
+
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.3.5/js/swiper.min.js"></script>
+      <script src="./js/scripts.js"></script>
 
   </body>
 </html>

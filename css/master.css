@@ -66,6 +66,18 @@ nav img{
   font-size: 20px;
   color: #202020;
 }
+.quasiDesc{
+    background: #FFF3F3;
+    border-radius: 10px;
+    box-sizing: border-box;
+    text-align: justify;
+}
+.newsDesc{
+    background: #FFF3F3;
+    border-radius: 10px;
+    box-sizing: border-box;
+    text-align: justify;
+}
 .prime-btn{
   display: inline-block;
   border-radius: 2em;
@@ -90,7 +102,9 @@ nav img{
 nav .fa{
   display: none;
 }
-@media screen and (max-width: 700px){
+@media screen
+and (max-width: 900px)
+and (min-width: 500px){
   .text-box h1{
     font-size: 30px;
     color: #202020;
@@ -113,7 +127,7 @@ nav .fa{
     top: 0;
     right: -300px;
     text-align: left;
-    z-index: 2;
+    z-index: 3;
     transition: 1s;
   }
   .nav-links ul li a{
@@ -144,7 +158,7 @@ nav .fa{
     padding-left: 5px;
   }
   nav .fa-bars{
-    z-index: 3;
+    z-index: 2;
     display: block;
     color: #276722;
     font-size: 30px;
@@ -179,7 +193,222 @@ nav .fa{
     text-align: center;
   }
 }
-@media only screen
+@media screen
+and (max-width: 499px),
+only screen
+and (max-height: 600px){
+  .quasiDesc{
+    display: none;
+  }
+}
+
+@media screen
+and (max-width: 499px),
+only screen
+and (max-height: 400px){
+  .newsDesc{
+    display: none;
+  }
+}
+
+@media screen
+and (max-width: 499px),
+only screen
+and (max-height: 300px){
+  .newsDesc{
+    display: none;
+  }
+  .text-box h1{
+    position: absolute;
+    top: 50%;
+    left: 30%;
+  }
+  .text-box p{
+    display: none;
+  }
+  .prime-btn{
+    display: none;
+  }
+}
+  /* .text-box h1{
+    font-size: 30px;
+    color: #202020;
+  }
+  .text-box p{
+    font-size: 16px;
+    color: #202020;
+  }
+  nav img{
+    width: 150px;
+  }
+  .nav-links ul li{
+    display: block;
+  }
+  .nav-links{
+    position: fixed;
+    background: #21507D;
+    height: 100vh;
+    width: 300px;
+    top: 0;
+    right: -300px;
+    text-align: left;
+    z-index: 3;
+    transition: 1s;
+  }
+  .nav-links ul li a{
+    color: #fff;
+    text-decoration: none;
+    font-size: 20px;
+  }
+  .nav-links ul li a:hover{
+    color: #F5C030;
+    text-decoration: none;
+    font-size: 22px;
+  }
+  .nav-links ul{
+    padding: 30px;
+  }
+  nav .fa-window-close{
+    display: block;
+    color: #fff;
+    font-size: 30px;
+    cursor: pointer;
+    padding-left: 5px;
+  }
+  nav .fa-window-close:hover{
+    display: block;
+    color: #F5C030;
+    font-size: 31px;
+    cursor: pointer;
+    padding-left: 5px;
+  }
+  nav .fa-bars{
+    z-index: 2;
+    display: block;
+    color: #276722;
+    font-size: 30px;
+    cursor: pointer;
+  }
+  nav .fa-bars:hover{
+    display: block;
+    color: #21507D;
+    font-size: 31px;
+    cursor: pointer;
+    transition: 0.5s;
+  }
+  .prime-btn{
+    display: inline-block;
+    border-radius: 2em;
+    text-decoration: none;
+    color: #fff;
+    border: 0px solid #fff;
+    padding: 12px 34px;
+    font-size: 16px;
+    background: #276722;
+    position: relative;
+    cursor: pointer;
+  }
+  .text-box{
+    width: 90%;
+    color: #202020;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+  }
+} */
+
+/* @media screen and (max-width: 900px){
+  .text-box h1{
+    font-size: 30px;
+    color: #202020;
+  }
+  .text-box p{
+    font-size: 16px;
+    color: #202020;
+  }
+  nav img{
+    width: 150px;
+  }
+  .nav-links ul li{
+    display: block;
+  }
+  .nav-links{
+    position: fixed;
+    background: #21507D;
+    height: 100vh;
+    width: 300px;
+    top: 0;
+    right: -300px;
+    text-align: left;
+    z-index: 3;
+    transition: 1s;
+  }
+  .nav-links ul li a{
+    color: #fff;
+    text-decoration: none;
+    font-size: 20px;
+  }
+  .nav-links ul li a:hover{
+    color: #F5C030;
+    text-decoration: none;
+    font-size: 22px;
+  }
+  .nav-links ul{
+    padding: 30px;
+  }
+  nav .fa-window-close{
+    display: block;
+    color: #fff;
+    font-size: 30px;
+    cursor: pointer;
+    padding-left: 5px;
+  }
+  nav .fa-window-close:hover{
+    display: block;
+    color: #F5C030;
+    font-size: 31px;
+    cursor: pointer;
+    padding-left: 5px;
+  }
+  nav .fa-bars{
+    z-index: 2;
+    display: block;
+    color: #276722;
+    font-size: 30px;
+    cursor: pointer;
+  }
+  nav .fa-bars:hover{
+    display: block;
+    color: #21507D;
+    font-size: 31px;
+    cursor: pointer;
+    transition: 0.5s;
+  }
+  .prime-btn{
+    display: inline-block;
+    border-radius: 2em;
+    text-decoration: none;
+    color: #fff;
+    border: 0px solid #fff;
+    padding: 12px 34px;
+    font-size: 16px;
+    background: #276722;
+    position: relative;
+    cursor: pointer;
+  }
+  .text-box{
+    width: 90%;
+    color: #202020;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+  }
+} */
+/* @media only screen
   and (min-device-width: 414px)
   and (max-device-width: 736px)
   and (-webkit-min-device-pixel-ratio: 3)
@@ -306,7 +535,7 @@ nav .fa{
     transform: translate(-50%,-50%);
     text-align: center;
   }
-}
+} */
 
 /* Research */
 
@@ -336,6 +565,7 @@ nav .fa{
     box-sizing: border-box;
     transition: 0.5s;
 }
+
 .sub:hover{
   cursor: pointer;
   box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.3);

@@ -229,12 +229,12 @@ and (max-width: 900px)
   and (max-width: 767px)
   and (orientation: portrait){
   .text-box h1{
-    /* zoom: 1.7; */
+    zoom: 1.5;
     font-size: 30px;
     color: #202020;
   }
   .text-box p{
-    /* zoom: 1.7; */
+    zoom: 1.2;
     font-size: 16px;
     color: #202020;
   }
@@ -326,8 +326,11 @@ and (max-width: 900px)
 @media screen
 and (max-width: 499px),
 only screen
-and (max-height: 600px){
+and (max-height: 700px){
   .quasiDesc{
+    display: none;
+  }
+  .quasiAbbr{
     display: none;
   }
 }

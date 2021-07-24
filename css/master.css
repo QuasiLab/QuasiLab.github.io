@@ -802,7 +802,7 @@ and (max-height: 300px){
   and (max-width: 767px)
   and (orientation: portrait){
     .footer{
-    zoom:1.2;
+    zoom:1.0;
     }
 }
 

@@ -1,0 +1,424 @@
+{
+  "listJournals": [
+    {
+        "author": ["I. B. Adilina", "R. R. Widjaya", "L. N. Hidayati", "E. Supriadi", "M. Safaat", "F. Oemry", "E. Restiawaty", "Y. Bindar", "S. F. Parker"],
+        "title": "Understanding the Surface Characteristics of Biochar and Its Catalytic Activity for the Hydrodeoxygenation of Guaiacol",
+        "journal": "Catalyst",
+        "volume": 11,
+        "pages": 1434,
+        "year": 2021,
+        "month": "November",
+        "doi": "https://doi.org/10.3390/catal11121434",
+        "preprint": ""
+    },
+    {
+        "author": ["M. Gaffar", "S. A. Wella", "E. H. Hasdeo"],
+        "title": "Effects of Topological Band Structure on Thermoelectric Transport of Bismuthene",
+        "journal": "Phys. Rev. B",
+        "volume": 104,
+        "pages": 205105,
+        "year": 2021,
+        "month": "November",
+        "doi": "https://doi.org/10.1103/PhysRevB.104.205105",
+        "preprint": "https://arxiv.org/abs/2105.05211"
+    },
+    {
+        "author": ["W. V. Sinambela", "S. A. Wella", "F. S. Arsyad", "N. T. Hung", "A. R. T. Nugraha"],
+        "title": "Electronic, Optical, and Thermoelectric Properties of Bulk and Monolayer Germanium Tellurides",
+        "journal": "Crystals",
+        "volume": 11,
+        "pages": 1290,
+        "year": 2021,
+        "month": "October",
+        "doi": "https://doi.org/10.3390/cryst11111290",
+        "preprint": ""
+    },
+    {
+        "author": ["E. P. Sari", "K. Wijaya", "W. Trisunaryanti", "A. Syoufian", "Hasanudin", "W. D. Saputri"],
+        "title": "The Effective Combination of Zirconia Superacid and Zirconia-impregnated CaO in Biodiesel Manufacturing: Utilization of Used Coconut Cooking Oil (UCCO)",
+        "journal": "Int. J. Energy Environ.",
+        "volume": "in press",
+        "pages": "",
+        "year": 2021,
+        "month": "October",
+        "doi": "https://doi.org/10.1007/s40095-021-00439-4",
+        "preprint": ""
+    },
+    {
+        "author": ["I. T. A. Aziz", "W. D. Saputri", "W. Trisunaryanti", "S. Sudiono", "A. Syoufian", "A. Budiman", "K. Wijaya"],
+        "title": "Synthesis of Nickel-loaded Sulfated Zirconia Catalyst and Its Application for Converting Used Palm Cooking Oil to Gasoline via Hydrocracking Process",
+        "journal": "Period. Polytech. Chem. Eng.",
+        "volume": "66",
+        "pages": "",
+        "year": 2021,
+        "month": "October",
+        "doi": "https://doi.org/10.3311/PPch.18209",
+        "preprint": ""
+    },
+    {
+        "author": ["H. Harfah", "Y. Wicaksono", "G. K. Sunnardianto", "M. A. Majidi", "K. Kusakabe"],
+        "title": "High Magnetoresistance of a Hexagonal Boron Nitride–Graphene Heterostructure-based MTJ through Excited-electron Transmission",
+        "journal": "Period. Polytech. Chem. Eng.",
+        "volume": "4",
+        "pages": "117",
+        "year": 2021,
+        "month": "October",
+        "doi": "https://doi.org/10.1039/D1NA00272D",
+        "preprint": ""
+    },
+    {
+        "author": ["R. Saito", "M. S. Ukhtary", "S. Wang", "N. T. Hung"],
+        "title": "Selection Rule for Raman Spectra of Two-dimensional Materials Using Circularly-polarized Vortex Light",
+        "journal": "Phys. Chem. Chem. Phys.",
+        "volume": "23",
+        "pages": "17271",
+        "year": 2021,
+        "month": "September",
+        "doi": "https://doi.org/10.1039/D1CP02209A",
+        "preprint": ""
+    },
+    {
+        "author": ["E. Suprayoga", "W. B. K. Putri", "K. Singsoog", "S. Paengson", "M. Y. Hanna", "A. R. T. Nugraha", "D. R. Munazat", "B. Kurniawan", "M. Nurhuda", "T. Seetawan", "E. H. Hasdeo"],
+        "title": "Investigation of Electron and Phonon Transport in Bi-doped CaMnO3 for Thermoelectric Applications",
+        "journal": "Mater. Res. Bull.",
+        "volume": 141,
+        "pages": 111359,
+        "year": 2021,
+        "month": "September",
+        "doi": "https://doi.org/10.1016/j.materresbull.2021.111359",
+        "preprint": ""
+    },
+    {
+        "author": ["J. Ekström", "E. H. Hasdeo", "M. B. Farias", "T. L. Schmidt"],
+        "title": "Kerr Effect in Tilted Nodal Loop Semimetals",
+        "journal": "Phys. Rev. B",
+        "volume": 104,
+        "pages": 125411,
+        "year": 2021,
+        "month": "September",
+        "doi": "https://doi.org/10.1103/PhysRevB.104.125411",
+        "preprint": "https://arxiv.org/abs/2102.03231"
+    },
+    {
+        "author": ["M. Abdullah", "H. D. Rahmayanti", "N. Amalia", "E. Yuliza", "Rahmawati Munir"],
+        "title": "Effective Elastic Modulus of Wet Granular Materials Derived from Modified Effective Medium Approximation and Proposal of An Equation for The Friction Coefficient Between The Object and Wet Granular Materials Surfaces",
+        "journal": "Granul. Matter",
+        "volume": 23,
+        "pages": 78,
+        "year": 2021,
+        "month": "August",
+        "doi": "https://doi.org/10.1007/s10035-021-01144-z",
+        "preprint": ""
+    },
+    {
+        "author": ["K. Wijaya", "M. A. Kurniawan", "W. D. Saputri", "W. Trisunaryanti", "M. Mirzan", "P. L. Hariani", "A. D. Tikoalu"],
+        "title": "Synthesis of Nickel Catalyst Supported on ZrO<sub>2</sub>/SO<sub>4</sub> Pillared Bentonite and Its Application for Conversion of Coconut Oil into Gasoline via Hydrocracking Process",
+        "journal": "J. Env. Chem. Eng.",
+        "volume": 9,
+        "pages": 105399,
+        "year": 2021,
+        "month": "August",
+        "doi": "https://doi.org/10.1016/j.jece.2021.105399",
+        "preprint": ""
+    },
+    {
+        "author": ["F. R. Pratama", "M. S. Ukhtary", "R. Saito"],
+        "title": "Magnetizations and De Haas-van Alphen Oscillations in Massive Dirac Fermions",
+        "journal": "Phys. Rev. B",
+        "volume": 103,
+        "pages": 245408,
+        "year": 2021,
+        "month": "June",
+        "doi": "https://doi.org/10.1103/PhysRevB.103.245408",
+        "preprint": ""
+    },
+    {
+        "author": ["Y. Tian", "M. S. Ukhtary", "R. Saito"],
+        "title": "Optimized Enhancement of Electric Field in a Metallic Hollow Cylinder",
+        "journal": "J. Phys. D: Appl. Phys.",
+        "volume": 54,
+        "pages": 325303,
+        "year": 2021,
+        "month": "June",
+        "doi": "https://doi.org/10.1088/1361-6463/ac04e6",
+        "preprint": ""
+    },
+    {
+        "author": ["M. S. Ukhtary", "Y. Tian", "R. Saito"],
+        "title": "Spin Current Generation by Edge Plasmons in Graphene Ribbons",
+        "journal": "Phys. Rev. B",
+        "volume": 103,
+        "pages": 245428,
+        "year": 2021,
+        "month": "June",
+        "doi": "https://doi.org/10.1103/PhysRevB.103.245428",
+        "preprint": ""
+    },
+    {
+        "author": ["Y. P. Sarwono", "F. Ur Rahman", "R. D. Zhao", "R. Q. Zhang"],
+        "title": "Solving Atomic and Molecular Schrodinger Equation by One-dimensional Function Method ",
+        "journal": "Chem. J. Chin. Univ.",
+        "volume": 42,
+        "pages": "1-13",
+        "year": 2021,
+        "month": "May",
+        "doi": "https://doi.org/10.7503/cjcu20210138",
+        "preprint": ""
+    },
+    {
+        "author": ["A. Hussein", "A. H. M . Krom", "P. Dey", "G. K. Sunnardianto", "O. A. Moultos", "C. L. Walters"],
+        "title": "The Effect of Hydrogen Content and Yield Strength on the Distribution of Hydrogen in Steel: A Diffusion Coupled Micromechanical FEM Study",
+        "journal": "Acta Materialia",
+        "volume": 209,
+        "pages": "116799",
+        "year": 2021,
+        "month": "May",
+        "doi": "https://doi.org/10.1016/j.actamat.2021.116799",
+        "preprint": ""
+    },
+    {
+        "author": ["M. S. Ukhtary", "R. Saito"],
+        "title": "Effective Impedance of Two-dimensional Metal with Retardation Effect",
+        "journal": "J. Phys. Condens. Matter",
+        "volume": 33,
+        "pages": 185302,
+        "year": 2021,
+        "month": "April",
+        "doi": "https://doi.org/10.1088/1361-648X/abee02",
+        "preprint": ""
+    },
+    {
+        "author": ["K. Octavian", "E. H. Hasdeo"],
+        "title": "Non-universal Scaling of Thermoelectric Efficiency in 3D and 2D Thermoelectric Semiconductors",
+        "journal": "Adv. Nat. Sci: Nanosci. Nanotechnol.",
+        "volume": 12,
+        "pages": "015017",
+        "year": 2021,
+        "month": "March",
+        "doi": "https://doi.org/10.1088/2043-6262/abe93c",
+        "preprint": ""
+    },
+    {
+        "author": ["E. H. Hasdeo", "J. Ekström", "E. G. Idrisov", "T. L. Schmidt"],
+        "title": "Electron Hydrodynamics of Two-dimensional Anomalous Hall Materials",
+        "journal": "Phys. Rev. B",
+        "volume": 103,
+        "pages": "125106",
+        "year": 2021,
+        "month": "March",
+        "doi": "https://doi.org/10.1088/2043-6262/abe93c",
+        "preprint": ""
+    },
+    {
+        "author": ["Y. P. Sarwono", "F. Ur Rahman", "R. Q. Zhang"],
+        "title": "Solution of Two-electron Schrödinger Equations using a Residual Minimization Method and One-dimensional Basis Functions",
+        "journal": "AIP Adv.",
+        "volume": 11,
+        "pages": "025228",
+        "year": 2021,
+        "month": "February",
+        "doi": "https://doi.org/10.1063/5.0037833",
+        "preprint": ""
+    },
+    {
+        "author": ["D. Werner", "D. H. Apaydin", "D. Wielend", "K. Geistlinger", "W. D. Saputri", "U. J. Griesser", "E. Dražević", "T. S. Hofer", "E. Porternkirchner"],
+        "title": "Analysis of the Ordering Effects in Anthraquinone Thin Films and Its Potential Application for Sodium Ion Batteries",
+        "journal": "J. Phys. Chem. C",
+        "volume": 125,
+        "pages": "3745",
+        "year": 2021,
+        "month": "February",
+        "doi": "https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.0c10778",
+        "preprint": ""
+    },
+    {
+        "author": ["K. Wijaya", "W. D. Saputri", "I. T. A. Aziz", "Wangsa", "E. Heraldy", "L. Hakim", "A. Suseno", "M. Utami"],
+        "title": "Mesoporous Silica Preparation Using Sodium Bicarbonate as Template and Application of the Silica for Hydrocracking of Used Cooking Oil into Biofuel",
+        "journal": "Silicon",
+        "volume": 14,
+        "pages": "1583",
+        "year": 2021,
+        "month": "February",
+        "doi": "https://link.springer.com/article/10.1007/s12633-021-00946-3",
+        "preprint": ""
+    },
+    {
+        "author": ["G. K. Sunnardianto", "G. Bokas", "A. Hussein", "C. Walters", "O. A. Moultos", "P. Dey"],
+        "title": "Efficient Hydrogen Storage in Defective Graphene and its Mechanical Stability: A Combined Density Functional Theory and Molecular Dynamics Simulation Study",
+        "journal": "Int. J. Hydrogen Energy",
+        "volume": 46,
+        "pages": "5485",
+        "year": 2021,
+        "month": "January",
+        "doi": "https://doi.org/10.1016/j.ijhydene.2020.11.068",
+        "preprint": ""
+    },
+    {
+        "author": ["B. Rendy", "E. H. Hasdeo"],
+        "title": "Strain Effects on Band Structure and Dirac Nodal-line Morphology of ZrSiSe",
+        "journal": "J. Appl. Phys.",
+        "volume": 129,
+        "pages": "014306",
+        "year": 2021,
+        "month": "January",
+        "doi": "https://doi.org/10.1063/5.0030200",
+        "preprint": ""
+    }
+  ],
+  "listProceeds": [
+    {
+        "author": ["D. Y. Rahman", "F. D. Utami", "N. Amalia", "R. Sulistyowati", "E. Sustini", "M. Abdullah"],
+        "title": "Low-cost Solar Cell using PVA. NaCl Polymer Electrolyte as Hole Transport Medium and Graphite/TiO<sub>2</sub> Composite as Photon-absorbing Materials",
+        "journal": "Mater. Today: Proc.",
+        "volume": 44,
+        "pages": 3301,
+        "year": 2020,
+        "month": "December",
+        "doi": "https://doi.org/10.1016/j.matpr.2020.11.531",
+        "preprint": ""
+    },
+    {
+        "author": ["A. Hanifa", "A. Nadia", "W. D. Saputri", "A. Syoufian", "K. Wijaya"],
+        "title": "Performance of Ni-Mo Sulfated Nanozirconia Catalyst for Conversion of Waste Cooking Oil into Biofuel via Hydrocracking Process",
+        "journal": "Mater. Sci. Forum",
+        "volume": 1045,
+        "pages": 79,
+        "year": 2020,
+        "month": "September",
+        "doi": "https://www.scientific.net/MSF.1045.79",
+        "preprint": ""
+    },
+    {
+        "author": ["E. Suprayoga", "M. Y. Hanna", "E. H. Hasdeo", "A. R. T. Nugraha"],
+        "title": "A Comparative Study of Thermoelectric Properties of Monolayer, Bilayer and Bulk CrI<sub>3</sub>",
+        "journal": "AIP Conf. Proc.",
+        "volume": 2382,
+        "pages": "020004",
+        "year": 2020,
+        "month": "August",
+        "doi": "https://doi.org/10.1063/5.00599944",
+        "preprint": ""
+    },
+    {
+        "author": ["N. R. Ayukaryana", "M. H. Fauzi", "E. H. Hasdeo"],
+        "title": "The Quest and Hope of Majorana Zero Modes in Topological Superconductor for Fault-tolerant Quantum Computing: An Introductory Overview",
+        "journal": "AIP Conf. Proc.",
+        "volume": 2382,
+        "pages": "020007",
+        "year": 2020,
+        "month": "August",
+        "doi": "https://doi.org/10.1063/5.0059974",
+        "preprint": "https://arxiv.org/abs/2009.07764"
+    },
+    {
+        "author": ["F. Muttaqien", "N. A. P Namari", "S. A. Wella", "T. D. K. Wungu", "Suprijadi"],
+        "title": "CO<sub>2</sub> Adsorption on Graphene Supported Ni Catalysts",
+        "journal": "J. Phys. Conf. Ser.",
+        "volume": 1949,
+        "pages": "012003",
+        "year": 2020,
+        "month": "June",
+        "doi": "https://iopscience.iop.org/article/10.1088/1742-6596/1949/1/012003",
+        "preprint": ""
+    },
+    {
+        "author": ["D. Y. Rahman", "F. D. Utami", "D. O. Margaretta", "N. Amalia", "R. Sulistyowati", "M. Abdullah"],
+        "title": "Inexpensive Solar Cell using TiO<sub>2</sub>/coffee Composite as Photon Absorbing Material",
+        "journal": "IOP Conf. Ser.: Mater. Sci. Eng.",
+        "volume": 833,
+        "pages": "012089",
+        "year": 2020,
+        "month": "May",
+        "doi": "https://doi.org/10.1088/1757-899X/833/1/012089",
+        "preprint": ""
+    },
+    {
+        "author": ["F. H. Murdaka", "E. Suprayoga", "A. M. Pradipto", "K. Nakamura", "A. A. Nugroho"],
+        "title": "Density Functional Theory Approach for Muon Sites Estimation in Mn<sub>3</sub>Sn",
+        "journal": "Mater. Sci. Forum",
+        "volume": 1028,
+        "pages": "199",
+        "year": 2020,
+        "month": "April",
+        "doi": "https://doi.org/10.4028/www.scientific.net/MSF.1028.199",
+        "preprint": ""
+    },
+    {
+        "author": ["A. R. T. Nugraha", "A. B. Cahaya", "M. A. Majidi"],
+        "title": "Ultrafast Optical Absorption and Coherent Phonon Generation in Monolayer and Bilayer Transition Metal Dichalcogenides",
+        "journal": "J. Phys. Conf. Ser.",
+        "volume": 1816,
+        "pages": "012052",
+        "year": 2020,
+        "month": "March",
+        "doi": "https://iopscience.iop.org/article/10.1088/1742-6596/1816/1/012052/meta",
+        "preprint": ""
+    },
+    {
+        "author": ["M. J. Prakoso", "A. B. Cahaya", "A. R. T. Nugraha", "M. A. Majidi"],
+        "title": "Analysis of Optical Transition Rules in Buckled and Puckered Bismuthene Monolayers Based on Electron-photon Dipole Vectors",
+        "journal": "J. Phys. Conf. Ser.",
+        "volume": 1816,
+        "pages": "012050",
+        "year": 2020,
+        "month": "March",
+        "doi": "https://iopscience.iop.org/article/10.1088/1742-6596/1816/1/012050/meta",
+        "preprint": ""
+    },
+    {
+        "author": ["R. Layton", "A. B. Cahaya", "A. R. T. Nugraha", "M. A. Majidi"],
+        "title": "Electron-photon Interaction in Monolayer Antimonene",
+        "journal": "J. Phys. Conf. Ser.",
+        "volume": 1816,
+        "pages": "012049",
+        "year": 2020,
+        "month": "March",
+        "doi": "https://iopscience.iop.org/article/10.1088/1742-6596/1816/1/012049/meta",
+        "preprint": ""
+    },
+    {
+        "author": ["R. M. Sitorus", "A. Azhar", "A. B. Cahaya", "A. R. T. Nugraha", "M. A. Majidi"],
+        "title": "Theoretical Study of Complex Susceptibility of Pd and Pt",
+        "journal": "J. Phys. Conf. Ser.",
+        "volume": 1816,
+        "pages": "012044",
+        "year": 2020,
+        "month": "March",
+        "doi": "https://iopscience.iop.org/article/10.1088/1742-6596/1816/1/012044/meta",
+        "preprint": ""
+    },
+    {
+        "author": ["R. Munir", "H. D. Rahmayanti", "N. Amalia", "F. D. Utami", "S. Viridi", "M. Abdullah"],
+        "title": "Investigation of Mechanical Properties for Non-Homogeneous by Image Tracking Method",
+        "journal": "Mater. Today: Proc.",
+        "volume": 44,
+        "pages": 3415,
+        "year": 2021,
+        "month": "February",
+        "doi": "https://doi.org/10.1016/j.matpr.2020.12.1158",
+        "preprint": ""
+    }
+  ],
+  "listPreprint": [
+    {
+        "author": ["J. M. Adhidewata", "A. R. T. Nugraha", "E. H. Hasdeo", "P. Estelle", "B. E. Gunara"],
+        "title": "Thermoelectric Properties of Semiconducting Materials with Parabolic and Pudding-mold Band Structures",
+        "journal": "arXiv",
+        "volume": "2107.06826",
+        "pages": "",
+        "year": 2021,
+        "month": "",
+        "doi": "https://arxiv.org/abs/2107.06826"
+     },
+     {
+         "author": ["A. Habibi", "A. Z. Musthofa", "E. Adibi", "J. Ekström", "T. L. Schmidt", "E. H. Hasdeo"],
+         "title": "Kerr and Faraday Rotations in Topological Flat and Dispersive Band Structures",
+         "journal": "arXiv",
+         "volume": "2103.15085",
+         "pages": "",
+         "year": 2021,
+         "month": "",
+         "doi": "https://arxiv.org/abs/2103.15085"
+      }
+  ]
+}

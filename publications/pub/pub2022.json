@@ -1,0 +1,64 @@
+{
+  "listJournals": [
+    {
+        "author": ["N. T. Hung", "J. M. Adhidewata", "A. R. T. Nugraha", "R. Saito"],
+        "title": "Enhanced Thermoelectric Performance by van Hove Singularities in the Density of States of Type-II Nodal-line Semimetals)",
+        "journal": "Phys. Rev. B",
+        "volume": 105,
+        "pages": "115142",
+        "year": 2022,
+        "month": "March",
+        "doi": "https://doi.org/10.1103/PhysRevB.105.115142",
+        "preprint": "https://arxiv.org/abs/2112.03525"
+    },
+    {
+        "author": ["P. Lubis", "N. Amalia", "S. A. Wella", "Sholihun"],
+        "title": "Thermoelectric Properties of Monolayer and Bilayer Buckled <i>X</i>Te (X= Ge, Sn, and Pb)",
+        "journal": "Adv. Nat. Sci.: Nanosci. Nanotechnol.",
+        "volume": "in press",
+        "pages": "",
+        "year": 2022,
+        "month": "March",
+        "doi": "",
+        "preprint": ""
+    },
+    {
+        "author": ["W. D. Saputri", "H. D. Pranowo", "T. S. Hofer"],
+        "title": "Can’t We Negotiate the Importance of Electron Correlation? HF vs RIMP2 in Ab Initio Quantum Mechanical Charge Field Molecular Dynamics Simulations of Cu<sup>+</sup> in Pure Liquid Ammonia",
+        "journal": "J. Mol. Liq.",
+        "volume": 347,
+        "pages": 118286,
+        "year": 2022,
+        "month": "February",
+        "doi": "https://www.sciencedirect.com/science/article/pii/S0167732221030117",
+        "preprint": ""
+    },
+    {
+        "author": ["A. Setiawan", "I. P. Handayani", "E. Suprayoga"],
+        "title": "Uniaxial Strain-induced Electronic Property Alterations of MoS<sub>2</sub> Monolayer",
+        "journal": "Adv. Nat. Sci.: Nanosci. Nanotechnol.",
+        "volume": 12,
+        "pages": "045016",
+        "year": 2022,
+        "month": "January",
+        "doi": "https://doi.org/10.1088/2043-6262/ac4aed",
+        "preprint": "https://arxiv.org/abs/2201.00500"
+    }
+  ],
+  "listProceeds": [
+  ],
+  "listPreprint": [
+  ],
+  "listLocalPub": [
+    {
+        "author": ["M. Y. Hanna", "A. R. T. Nugraha", "M. A. Majidi"],
+        "title": "Application of the Detailed Balance Model to Thermoradiative Cells Based on a p-type Two-dimensional Indium Selenide Semiconductor",
+        "journal": "Sinergi",
+        "volume": 26,
+        "pages": "115-120",
+        "year": 2022,
+        "month": "February",
+        "doi": "https://doi.org/10.22441/sinergi.2022.1.015"
+     }
+  ]
+}

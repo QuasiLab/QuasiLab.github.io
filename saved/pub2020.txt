@@ -1,0 +1,29 @@
+
+
+
+            <!-- Jan -->
+            <li>F. R. Pratama,
+              <a href="./team/msho001.html">M. S. Ukhtary</a>,
+              and R. Saito,
+              "<i>Circular Dichroism and Faraday and Kerr Rotation in Two-dimensional
+                Materials with Intrinsic Hall Conductivities</i>",
+              <a href="https://doi.org/10.1103/PhysRevB.101.045426">
+              Phys. Rev. B <b>101</b>, 045426</a>, 2020.</li>
+
+
+            <li>S. Wang, F. R. Pratama,
+              <a href="./team/msho001.html">M. S. Ukhtary</a>,
+              and R. Saito,
+              "<i>Independent Degrees of Freedom in Ttwo-dimensional Materials</i>",
+              <a href="https://doi.org/10.1103/PhysRevB.101.081414">
+              Phys. Rev. B <b>101</b>, 081414(R)</a>, 2020.</li>
+
+
+            <li>N. Ehlen, M. Hell, G. Marini,
+              <a href="./team/eddw001.html">E. H. Hasdeo</a>,
+              R. Saito, Y. Falke, M. O. Goerbig,
+              G. D. Santo, L. Petaccia, G. Profeta, and A. Grüneis,
+              "<i>Origin of the Flat Band in Heavily Cs-Doped Graphene</i>",
+              <a href="https://doi.org/10.1021/acsnano.9b08622">
+              ACS Nano <b>14</b>, 1055</a>, 2020.</li>
+          </ol>

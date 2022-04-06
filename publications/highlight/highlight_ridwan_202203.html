@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewpoint" content="width=device-width, initial-scale=1.0">
+    <title>Quasi.id</title>
+    <link rel="stylesheet" href="/css/master.css">
+    <link rel="stylesheet" href="https://indestructibletype.com/fonts/Jost.css" type="text/css" charset="utf-8">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="undefined" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.3.5/css/swiper.min.css">
+    <link rel="shortcut icon" type="image/x-icon" href="./figures/favicon.ico">
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-LZZRQK2PEY"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-LZZRQK2PEY');
+    </script>
+
+    <!-- To load a html file -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script>
+        $(function() {
+          $("#footer").load("../../footer.html");
+        });
+    </script>
+
+  </head>
+  <body>
+
+      <!-- HOME -->
+
+      <section class="researchHeader">
+          <nav>
+            <a href="../../index.html">
+              <img src="../../figures/logo.png"></a>
+            <div class="nav-links" id="navLinks">
+              <i class="fa fa-window-close" onclick="hideMenu()"></i>
+              <ul>
+                <li><a href="../../index.html">Home</a></li>
+                <li><a href="../../research/research.html">Research</a></li>
+                <li><a href="../../team/team.html">Team</a></li>
+                <li><a href="../pub2022.html">Publications</a></li>
+                <li><a href="../../download/download.html">Download</a></li>
+                <li><a href="../../tutorial/tutorial.html">Tutorial</a></li>
+                <li><a href="../../contact/contact.html">Contact</a></li>
+              </ul>
+            </div>
+            <i class="fa fa-bars" onclick="showMenu()"></i>
+          </nav>
+          <h1>Fresh from the Oven</h1>
+      </section>
+
+      <!-- POST SLIDER -->
+
+      <div class="highlightBox">
+      <div class="highBox-item">
+      <div class="highBox-img">
+        <img src="../../figures/highlight/paper_ridwan_202203.png"></div>
+      <div class="highBox-content">
+      <div class="highBox-title">
+        Enhanced Thermoelectric Performance by van Hove Singularities
+        in the Density of States of Type-II Nodal-line Semimetals
+      </div>
+      <div class="highBox-author">
+        N. H. Tung, J. M. Adhidewata,
+        <a href="../../team/staff/ahma080.html">A. R. T. Nugraha</a>,
+        and R. Saito
+      </div>
+      <div class="highBox-abstract"><b>Abstract</b> ---
+        The effects of the unique density of states (DOS) of a topological
+        type-II nodal-line semimetal (NLS) on its thermoelectric (TE) transport
+        properties are investigated through a combination of semianalytical and
+        first-principles methods with “spinless Mg<sub>3</sub>Bi<sub>2</sub>”
+        as the artificial material. The DOS in such a type-II NLS possesses two
+        van Hove singularities near the energy of the nodal line that leads to
+        a large S value compared to the normal metals. Combined with the linear
+        band at the nodal line that gives high electrical conductivity σ, the
+        type-II NLS can exhibit a relatively high TE power factor (PF=S<sup>2</sup>σ) at
+        the nodal line. In particular, we find PF∼60μW/cmK<sup>2</sup> at 300 K for the
+        n-type Mg<sub>3</sub>Bi<sub>2</sub> by considering the electron-phonon
+        scattering, in which the relaxation time τ of carriers can be expressed
+        as τ∝DOS<sup>-1</sup> for the type-II NLS. Furthermore, we optimize parameters
+        for the TE power factor of type-II NLSs in general by adopting the
+        two-band model with the DOS-dependent relaxation-time approximation.
+        Our results suggest the type-II NLSs as a potential class of
+        high-performance TE materials among metals and semimetals, which are
+        traditionally considered inadequate TE materials compared to
+        semiconductors.
+      </div>
+      <span class="highBox-link">
+        <a href="https://doi.org/10.1103/PhysRevB.105.115142">
+          Phys. Rev. B <b>105</b>, 115142 (2022)</a>
+      </span>
+      <a href="../pub2022.html" class="highBox-Button">Back to Publications</a>
+      </div>
+      </div>
+      </div>
+
+      <!-- FOOTER -->
+      <div id="footer"></div>
+
+      <!-- JS FOR TOGGLE MENU -->
+      <script src="../../js/navLinks.js"></script>
+
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.3.5/js/swiper.min.js"></script>
+      <script src="../../js/scripts.js"></script>
+
+  </body>
+</html>

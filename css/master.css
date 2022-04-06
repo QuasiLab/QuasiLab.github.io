@@ -1394,6 +1394,10 @@ and (max-height: 300px){
   bottom: auto !important;
   transform: translateY(-50%);
 }
+.listofYears{
+  text-align: center;
+  padding-bottom: 20px;
+}
 @media screen and (max-width: 768px) {
   .slider-pagination{
     transform: translateX(-50%);

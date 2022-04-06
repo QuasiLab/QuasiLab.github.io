@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewpoint" content="width=device-width, initial-scale=1.0">
+    <title>Quasi.id</title>
+    <link rel="stylesheet" href="/css/master.css">
+    <!-- <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz:wght@200;400;700&display=swap" rel="stylesheet"> -->
+    <link rel="stylesheet" href="https://indestructibletype.com/fonts/Jost.css" type="text/css" charset="utf-8">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="undefined" crossorigin="anonymous">
+    <link rel="shortcut icon" type="image/x-icon" href="./figures/favicon.ico">
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-LZZRQK2PEY"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-LZZRQK2PEY');
+    </script>
+
+    <!-- To load a html file -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script>
+        $(function() {
+          $("#footer").load("../footer.html");
+        });
+    </script>
+
+  </head>
+  <body>
+
+      <!-- HOME -->
+
+      <section class="researchHeader">
+          <nav>
+            <a href="../index.html"><img src="/figures/logo.png"></a>
+            <div class="nav-links" id="navLinks">
+              <i class="fa fa-window-close" onclick="hideMenu()"></i>
+              <ul>
+                <li><a href="../index.html">Home</a></li>
+                <li><a href="./research.html">Research</a></li>
+                <li><a href="../team/team.html">Team</a></li>
+                <li><a href="../publications/pub2022.html">Publications</a></li>
+                <li><a href="../download/download.html">Download</a></li>
+                <li><a href="../tutorial/tutorial.html">Tutorial</a></li>
+                <li><a href="../contact/contact.html">Contact</a></li>
+              </ul>
+            </div>
+            <i class="fa fa-bars" onclick="showMenu()"></i>
+          </nav>
+          <h1>Research Interest</h1>
+      </section>
+
+      <!-- RESEARCH -->
+
+      <section class="research">
+          <div class="row">
+            <div class="sub" onclick="location.href='./sub/subResearch1.html'">
+              <h3>#1<br>Quantum Matter Theory</h3>
+              <p>We are interested in fundamental excitations in solids, i.e.
+                electrons, photons, phonons, magnons, plasmons etc. in low
+                dimensional and quantum materials. We work closely with
+                experimentalists in optical spectroscopy and transport.
+              </p>
+              <p>----------</p>
+              <p style="color:#21507D"><b>READ MORE</b></p>
+            </div>
+            <div class="sub" onclick="location.href='./sub/subResearch2.html'">
+              <h3>#2<br>Nanomaterials Design and Simulation</h3>
+              <p>This subgroup has interest in Electronic Structure Calculation,
+                Catalysts, Battery, Theory of Spectroscopy, Thermoelectrics,
+                Topological Materials, Low-dimensional Materials, and Quantum
+                Foundations.
+               </p>
+               <p>----------</p>
+               <p style="color:#21507D"><b>READ MORE</b></p>
+            </div>
+          </div>
+      </section>
+
+      <!-- FOOTER -->
+      <div id="footer"></div>
+
+      <!-- JS FOR TOGGLE MENU -->
+      <script src="../../js/navLinks.js"></script>
+
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.3.5/js/swiper.min.js"></script>
+      <script src="../../js/scripts.js"></script>
+
+  </body>
+</html>

@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewpoint" content="width=device-width, initial-scale=1.0">
+    <title>Quasi.id</title>
+    <meta property="og:description" content="QUAntum design and SImulation Laboratory, Research Center for Physics, Indonesian Institute of Sciences (LIPI).">
+    <meta property="og:image" content="./figures/QuasiId-3.png">
+    <meta property="og:url" content="https://quasi.id/">
+    <link rel="stylesheet" href="/css/master.css">
+    <link rel="stylesheet" href="https://indestructibletype.com/fonts/Jost.css" type="text/css" charset="utf-8">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="undefined" crossorigin="anonymous">
+    <link rel="shortcut icon" type="image/x-icon" href="./figures/favicon.ico">
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-LZZRQK2PEY"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-LZZRQK2PEY');
+    </script>
+
+    <!-- To load a html file -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script>
+        $(function() {
+          $("#footer").load("./footer.html");
+        });
+    </script>
+
+  </head>
+  <body>
+
+      <!-- HOME -->
+
+      <section class="home">
+          <nav>
+            <a href="./index.html"><img src="/figures/logo.png"></a>
+            <div class="nav-links" id="navLinks">
+              <i class="fa fa-window-close" onclick="hideMenu()"></i>
+              <ul>
+                <li><a href="./index.html">Home</a></li>
+                <li><a href="./research/research.html">Research</a></li>
+                <li><a href="./team/team.html">Team</a></li>
+                <li><a href="./publications/pub2022.html">Publications</a></li>
+                <li><a href="./download/download.html">Download</a></li>
+                <li><a href="./tutorial/tutorial.html">Tutorial</a></li>
+                <li><a href="./contact/contact.html">Contact</a></li>
+              </ul>
+            </div>
+            <i class="fa fa-bars" onclick="showMenu()"></i>
+          </nav>
+          <div class="text-box">
+            <h1>Welcome to Quasi Lab</h1>
+            <div class="quasiAbbr">
+            <p><b>QUA</b>ntum design and <b>SI</b>mulation Laboratory</p>
+            </div>
+            <div class="quasiDesc">
+            <p style="text-align:center">We are a group of researchers
+            interested in designing and simulating various quantum
+            systems as well as developing novel quantum mechanical
+            methods for understanding materials properties</p>
+            </div>
+            <!-- <div class="newsDesc" style="background: #DFE7F6">
+            <p style="text-align:center"><b>NEWS:</b> Workshop "<a href="./news01.html">P3DR-PM 2021</a> (Pelatihan Penyusunan Proposal
+              Dana Riset bagi Peneliti Muda)" will be held on Monday (19/7) and on Saturday (24/7).<b> Join us!</b></p>
+            </div>
+            <div class="newsDesc" style="background: #DFE7F6">
+            <p style="text-align:center"><b>NEWS:</b> "<a href="./news02.html">QUASI One Day Workshop</a>" (Quantum Espresso, Gnuplot, and LaTeX)
+              will be held on Monday (02/8).<b> Don't miss it!</b></p>
+            </div> -->
+            <a href="./research/research.html" class="prime-btn">Visit us to know more</a>
+          </div>
+      </section>
+
+      <!-- FOOTER -->
+      <div id="footer"></div>
+
+      <!-- JS FOR TOGGLE MENU -->
+      <script src="./js/navLinks.js"></script>
+
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.3.5/js/swiper.min.js"></script>
+      <script src="./js/scripts.js"></script>
+
+  </body>
+</html>

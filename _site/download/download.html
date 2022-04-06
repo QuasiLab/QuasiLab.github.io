@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewpoint" content="width=device-width, initial-scale=1.0">
+    <title>Quasi.id</title>
+    <link rel="stylesheet" href="/css/master.css">
+    <link rel="stylesheet" href="https://indestructibletype.com/fonts/Jost.css" type="text/css" charset="utf-8">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="undefined" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.3.5/css/swiper.min.css">
+    <link rel="shortcut icon" type="image/x-icon" href="./figures/favicon.ico">
+
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-LZZRQK2PEY"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-LZZRQK2PEY');
+    </script>
+
+    <!-- To load a html file -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script>
+        $(function() {
+          $("#footer").load("../footer.html");
+        });
+    </script>
+
+  </head>
+  <body>
+
+      <!-- HOME -->
+
+      <section class="researchHeader">
+          <nav>
+            <a href="../index.html"><img src="../figures/logo.png"></a>
+            <div class="nav-links" id="navLinks">
+              <i class="fa fa-window-close" onclick="hideMenu()"></i>
+              <ul>
+                <li><a href="../index.html">Home</a></li>
+                <li><a href="../research/research.html">Research</a></li>
+                <li><a href="../team/team.html">Team</a></li>
+                <li><a href="../publications/pub2022.html">Publications</a></li>
+                <li><a href="./download.html">Download</a></li>
+                <li><a href="../tutorial/tutorial.html">Tutorial</a></li>
+                <li><a href="../contact/contact.html">Contact</a></li>
+              </ul>
+            </div>
+            <i class="fa fa-bars" onclick="showMenu()"></i>
+          </nav>
+          <h1>Download</h1>
+      </section>
+
+      <!-- <h1 style="text-align: center; margin: auto; padding: 20px; color:#276722">Coming soon!</h1>
+      <img src="./figures/comingsoon.png" style="width:400px; display: block; margin-left: auto; margin-right:auto; margin-bottom:40px;"> -->
+
+      <section class="subgroup1">
+        <!-- <h2>#1<br>Theoretical & Computational<br>Condensed Matter Physics</h2>
+        <p>This subgroup has interest in Electronic Structure Calculation,
+           Catalysts, Battery, Theory of Spectroscopy, Thermoelectrics,
+           Topological Materials, Low-dimensional Materials, and Quantum
+           Foundations.
+        </p> -->
+        <!-- Research List 1 -->
+        <div class="researchList">
+          <div class="researchGraph">
+            <img src="../figures/modul.png" width="300">
+          </div>
+          <div class="researchDesc">
+            <p><a href="https://github.com/QuasiLab/QuasiTutorial"><b>Modul "Research Starter Kit" v1.0</b> </a> --- Modul ini disusun sebagai salah satu "Research Starter Kit"
+              yang secara khusus diperuntukkan sebagai bahan persiapan penelitian terkait teori dan komputasi material.
+              Namun, kami juga berharap, modul ini juga bisa berguna untuk kepentingan yang lebih luas, sehingga dapat
+              membantu meningkatkan kualitas sumber daya manusia Indonesia.
+            </p>
+          </div>
+        </div>
+    </section>
+
+    <!-- FOOTER -->
+    <div id="footer"></div>
+
+    <!-- JS FOR TOGGLE MENU -->
+    <script src="../js/navLinks.js"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.3.5/js/swiper.min.js"></script>
+    <script src="../js/scripts.js"></script>
+
+  </body>
+</html>

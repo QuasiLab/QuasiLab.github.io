@@ -1,0 +1,198 @@
+{
+  "listJournals": [
+    {
+        "author": ["G. R. Suwito", "M. Fukuda", "E. Suprayoga", "M. Ohtsuka", "E. H. Hasdeo", "A. R. T. Nugraha", "M. Sakashita", "S. Shibayama", "O. Nakatsuka"],
+        "title": "Formation of Ultra-thin Ge<sub>1-x</sub>Sn<sub>x</sub>/Ge<sub>1-x-y</sub>Si<sub>x</sub>Sn<sub>y</sub> Quantum Heterostructures and Their Electrical Properties for Realizing Resonant Tunneling Diode",
+        "journal": "Appl. Phys. Lett.",
+        "volume": 117,
+        "pages": 232104,
+        "year": 2020,
+        "month": "December",
+        "doi": "https://doi.org/10.1063/5.0024905"
+    },
+    {
+        "author": ["R. Saito", "M. S. Ukhtary", "S. Wang", "Y. Iwasaki"],
+        "title": "Circular Dichroism of Doped Carbon Nanotubes",
+        "journal": "J. Appl. Phys.",
+        "volume": 128,
+        "pages": 164301,
+        "year": 2020,
+        "month": "October",
+        "doi": "https://doi.org/10.1063/5.0028011"
+    },
+    {
+        "author": ["Y. P. Sarwono", "F. Ur Rahman", "R. Q. Zhang"],
+        "title": "Numerical Variational Solution of Hydrogen Molecule and Ions using One-dimensional Hydrogen as Basis Functions ",
+        "journal": "New J. Phys.",
+        "volume": 22,
+        "pages": "093059",
+        "year": 2020,
+        "month": "September",
+        "doi": "https://doi.org/10.1088/1367-2630/abb47e"
+    },
+    {
+        "author": ["Y. Hamamoto", "S. A. Wella", "K. Inagaki", "F. Abild-Pedersen", "T. Bligaard", "I. Hamada", "Y. Morikawa"],
+        "title": "Enhanced CO Tolerance of Pt Clusters Supported on Graphene with Lattice Vacancies",
+        "journal": "Phys. Rev. B",
+        "volume": 102,
+        "pages": "075408",
+        "year": 2020,
+        "month": "August",
+        "doi": "https://doi.org/10.1103/PhysRevB.102.075408"
+    },
+    {
+        "author": ["S. Wang", "M. S. Ukhtary", "R. Saito"],
+        "title": "Strain Effect on Circularly Polarized Electroluminescence in Transition Metal Dichalcogenides",
+        "journal": "Phys. Rev. Research",
+        "volume": 2,
+        "pages": "033340",
+        "year": 2020,
+        "month": "August",
+        "doi": "https://doi.org/10.1103/PhysRevResearch.2.033340"
+    },
+    {
+        "author": ["A. Sulistyo", "F. Rofiah", "A. S. Nugraha", "G. K. Sunnardianto"],
+        "title": "Isothermal and Kinetic Adsorption of Anionic Dye onto Impregnated Silica Gels with Aluminum",
+        "journal": "Environ. Eng. Manage. J.",
+        "volume": 19,
+        "pages": 8,
+        "year": 2020,
+        "month": "August",
+        "doi": "http://eemj.eu/index.php/EEMJ/article/view/4148"
+    },
+    {
+        "author": ["M. S. Ukhtary", "R. Saito"],
+        "title": "Step-like Conductance of a Silicene Pseudospin Junction",
+        "journal": "J. Phys.: Condens. Matter",
+        "volume": 32,
+        "pages": 425301,
+        "year": 2020,
+        "month": "June",
+        "doi": "https://doi.org/10.1088/1361-648X/ab9d50"
+    },
+    {
+        "author": ["M. S. Ukhtary", "R. Saito"],
+        "title": "Surface Plasmons in Graphene and Carbon Nanotubes",
+        "journal": "Carbon",
+        "volume": 167,
+        "pages": 455,
+        "year": 2020,
+        "month": "May",
+        "doi": "https://doi.org/10.1016/j.carbon.2020.05.019"
+    },
+    {
+        "author": ["J. Grzesik", "M. S. Ukhtary", "R. Saito"],
+        "title": "Scaling Laws in Synchronization of Metronomic Oscillatory Systems",
+        "journal": "J. Phys. Soc. Jpn.",
+        "volume": 89,
+        "pages": "054002",
+        "year": 2020,
+        "month": "April",
+        "doi": "https://doi.org/10.7566/JPSJ.89.054002"
+    },
+    {
+        "author": ["D. O. Margaretta", "N. Amalia", "F. D. Utami", "R. Murniati", "S. Viridi", "M. Abdullah"],
+        "title": "Size-dependent Electron Chemical Potential in Nanostructures Derived from Statistical Configuration",
+        "journal": "Turk. J. Phys.",
+        "volume": 44,
+        "pages": 195,
+        "year": 2020,
+        "month": "April",
+        "doi": "http://dx.doi.org/10.3906/fiz-1907-27"
+    },
+    {
+        "author": ["S. A. Wella", "Y. Hamamoto", "F. Iskandar", "Suprijadi", "Y. Morikawa", "I. Hamada"],
+        "title": "Atomic and Molecular Adsorption on Single Platinum Atom at the Graphene Edge: A Density Functional Theory Study",
+        "journal": "J. Chem. Phys.",
+        "volume": 152,
+        "pages": "104707",
+        "year": 2020,
+        "month": "March",
+        "doi": "https://doi.org/10.1063/5.0002902"
+    },
+    {
+        "author": ["M. Nurhuda", "A. R. T. Nugraha", "M. Y. Hanna", "E. Suprayoga", "E. H. Hasdeo"],
+        "title": "Thermoelectric Properties of Mexican-hat Band Structures",
+        "journal": "Adv. Nat. Sci: Nanosci. Nanotechnol.",
+        "volume": 11,
+        "pages": "015012",
+        "year": 2020,
+        "month": "February",
+        "doi": "https://doi.org/10.1088/2043-6254/ab7225"
+    },
+    {
+        "author": ["F. R. Pratama", "M. S. Ukhtary", "R. Saito"],
+        "title": "Circular Dichroism and Faraday and Kerr Rotation in Two-dimensional Materials with Intrinsic Hall Conductivities",
+        "journal": "Phys. Rev. B ",
+        "volume": 101,
+        "pages": "045426",
+        "year": 2020,
+        "month": "January",
+        "doi": "https://doi.org/10.1103/PhysRevB.101.045426"
+    },
+    {
+        "author": ["S. Wang", "F. R. Pratama", "M. S. Ukhtary", "R. Saito"],
+        "title": "Independent Degrees of Freedom in Ttwo-dimensional Materials",
+        "journal": "Phys. Rev. B ",
+        "volume": 101,
+        "pages": "081414(R)",
+        "year": 2020,
+        "month": "January",
+        "doi": "https://doi.org/10.1103/PhysRevB.101.081414"
+    },
+    {
+        "author": ["N. Ehlen", "M. Hell", "G. Marini", "E. H. Hasdeo", "R. Saito", "Y. Falke", "M. O. Goerbig", "G. D. Santo", "L. Petaccia", "G. Profeta", "A. Grüneis"],
+        "title": "Origin of the Flat Band in Heavily Cs-Doped Graphene",
+        "journal": "ACS Nano",
+        "volume": 14,
+        "pages": "1055",
+        "year": 2020,
+        "month": "January",
+        "doi": "https://doi.org/10.1021/acsnano.9b08622"
+    }
+  ],
+  "listProceeds": [
+    {
+        "author": ["E. Suprayoga", "A. Rifai", "A. Subhan", "G. K. Sunnardianto", "M. Y. Hanna", "E. H. Hasdeo", "A. R. T. Nugraha"],
+        "title": "Ab-initio Calculation of Muon Spin Polarization Function to Study Lithium-ion Diffusion in LiTi<sub>2</sub>O<sub>4</sub> Battery Material",
+        "journal": "AIP Conf. Proc.",
+        "volume": 2256,
+        "pages": "030015",
+        "year": 2020,
+        "month": "September",
+        "doi": "https://doi.org/10.1063/5.0014693"
+    },
+    {
+        "author": ["M. Y. Hanna", "E. H. Hasdeo", "E. Suprayoga", "A. R. T. Nugraha"],
+        "title": "Thermoelectric Properties of Two-dimensional Hydrogenated Borophene: A First-principles Study",
+        "journal": "AIP Conf. Proc.",
+        "volume": 2256,
+        "pages": "030017",
+        "year": 2020,
+        "month": "September",
+        "doi": "https://doi.org/10.1063/5.0014610"
+    },
+    {
+        "author": ["A. R. T. Nugraha", "M. Y. Hanna", "E. Suprayoga", "E. H. Hasdeo"],
+        "title": "Modulation of Coherent Phonon Amplitudes in Low-dimensional Materials by Ultrafast Laser Pulse Trains",
+        "journal": "AIP Conf. Proc.",
+        "volume": 2256,
+        "pages": "020005",
+        "year": 2020,
+        "month": "September",
+        "doi": "https://doi.org/10.1063/5.0023505"
+    },
+    {
+        "author": ["E. H. Hasdeo", "L. P. A. Krisna", "A. R. T. Nugraha"],
+        "title": "Thermoelectric Properties of Two-dimensional Dirac Materials",
+        "journal": "AIP Conf. Proc.",
+        "volume": 2256,
+        "pages": "030010",
+        "year": 2020,
+        "month": "September",
+        "doi": "https://doi.org/10.1063/5.0014592"
+    }
+  ],
+  "listPreprint": [
+  ]
+}

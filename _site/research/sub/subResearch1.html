@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewpoint" content="width=device-width, initial-scale=1.0">
+    <title>Quasi.id</title>
+    <link rel="stylesheet" href="/css/master.css">
+    <!-- <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz:wght@200;400;700&display=swap" rel="stylesheet"> -->
+    <link rel="stylesheet" href="https://indestructibletype.com/fonts/Jost.css" type="text/css" charset="utf-8">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="undefined" crossorigin="anonymous">
+    <link rel="shortcut icon" type="image/x-icon" href="./figures/favicon.ico">
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-LZZRQK2PEY"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-LZZRQK2PEY');
+    </script>
+
+    <!-- To load a html file -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script>
+        $(function() {
+          $("#footer").load("../../footer.html");
+        });
+    </script>
+
+  </head>
+  <body>
+
+      <!-- HOME -->
+
+      <section class="subResearch1-header">
+          <nav>
+            <a href="../../index.html"><img src="/figures/logo.png"></a>
+            <div class="nav-links" id="navLinks">
+              <i class="fa fa-window-close" onclick="hideMenu()"></i>
+              <ul>
+                <li><a href="../../index.html">Home</a></li>
+                <li><a href="../research.html">Research</a></li>
+                <li><a href="../../team/team.html">Team</a></li>
+                <li><a href="../../publications/pub2022.html">Publications</a></li>
+                <li><a href="../../download/download.html">Download</a></li>
+                <li><a href="../../tutorial/tutorial.html">Tutorial</a></li>
+                <li><a href="../../contact/contact.html">Contact</a></li>
+              </ul>
+            </div>
+            <i class="fa fa-bars" onclick="showMenu()"></i>
+          </nav>
+      </section>
+
+      <a href="./subResearch2.html" class="sub1-btn">#2 Nanomaterials Design & Simulation</a>
+
+      <section class="subgroup1">
+        <h2>#1<br>Quantum Matter Theory</h2>
+        <p>This subgroup has interest in ...
+        </p>
+        <!-- Research List 1 -->
+        <div class="researchList">
+          <div class="researchGraph">
+            <img src="/figures/bilayer_graphene.png" width="300">
+          </div>
+          <div class="researchDesc">
+            <p><b>Fundamental Properties of Materials</b> --- We investigate physical properties of materials to understand their
+              fundamental interactions and dynamics. These properties will be useful
+              for material characterization, advanced opto-electronics, and energy harvesting.
+              We perform calculations using  simple yet analytically tractable models or the
+              realistic first-principles methods. We studied dynamics of electrons and crystal
+              vibration (phonons) induced by light, magnetic field, temperature gradients and
+              so on. From these we can extract rich optical and transport properties of materials.
+              Recently, we are interested in the dynamics of electrons caused by twisting of
+              their wave functions leading to unconventional transport such as, transverse motion
+              without magnetic field. This novel behavior --- dubbed as the electron topology ---
+              bridges the manipulations of charge, spin, and helicity degrees of freedom and will
+              transforms the current opto-electronics. We published sole theoretical works as well
+              as combined theory-experimental efforts.
+            </p>
+          </div>
+        </div>
+        <!-- Research List 2 -->
+        <div class="researchList">
+          <div class="researchGraph">
+            <img src="/figures/optical_properties.png" width="300">
+          </div>
+          <div class="researchDesc">
+            <p><b>Optical Properties</b> --- We investigate the optical properties of low-dimensional materials
+              such as graphene and carbon nanotubes (CNTs). We are interested in the calculations of the optical
+              absorption, in particular the circular dichroism and valley polarization phenomena, and also the
+              surface plasmon in low-dimensional materials. Due to the tunability of the Fermi energy of the
+              low-dimensional materials, the optical properties can be controlled by the Fermi energy, too,
+              which finds applications in the tunable photodetectors or the optical switches. Moreover, we discuss
+              the methods to increase the optical absorption, either by doping or by using special geometry that
+              enhances the light-matter interaction. We perform the calculations by combining the analytical and
+              computational methods, from which the optical properties are obtained. Recently, we are interested
+              in the optical control of the degrees of freedom of material, such as electron’s spin, valley-spin
+              nd pseudo-spin, which opens up the possibility for electronic devices that consume less energy than
+              the conventional ones.
+            </p>
+          </div>
+        </div>
+      <!-- Research List 3 -->
+      <div class="researchList">
+        <div class="researchGraph">
+          <img src="/figures/thermoelectric.png" width="300">
+        </div>
+        <div class="researchDesc">
+          <p><b>Thermoelectric</b> --- Thermoelectric (TE) materials are a class of materials that can directly convert
+            heat into electricity. The efficient TE materials should be thermally inert while electrically conducting at
+            the same time. These requirements provide researchers a challenge in designing TE materials because the electrons
+            transporting charges in conventional metals also carry heat. Our group works on the development of high-performance
+            TE materials of perovskite-oxide materials, 2D materials, and topological materials. The performance of TE materials
+            can be expressed by the TE figure of merit (ZT) that is composed of several materials properties such as the Seebeck
+            coefficient, the electronic conductivity, and thermal conductivity. We use various computational tools such as density
+            functional theory, tight-binding method, and Boltzmann transport equation to study the electron and phonon transport
+            mechanism for improving the TE properties of materials.
+          </p>
+        </div>
+      </div>
+
+    </section>
+
+    <!-- FOOTER -->
+    <div id="footer"></div>
+
+    <!-- JS FOR TOGGLE MENU -->
+    <script src="./js/navLinks.js"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.3.5/js/swiper.min.js"></script>
+    <script src="./js/scripts.js"></script>
+
+  </body>
+</html>

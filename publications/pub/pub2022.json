@@ -1,5 +1,16 @@
 {
   "listJournals": [
+    {
+        "author": ["H. Haryadi", "E. Suprayoga", "E. Suhendi"],
+        "title": "An Analysis of Electronic Properties of LaFeO3 using Density Functional Theory with Generalized Gradient Approximation-Perdew-Burke-Ernzerhof Method for Ethanol Gas Sensors",
+        "journal": "Materials Research",
+        "volume": 25, 
+        "pages": "e20210554",
+        "year": 2022,
+        "month": "May",
+        "doi": "https://doi.org/10.1590/1980-5373-MR-2021-0554",
+        "preprint": ""
+   },
    {
         "author": ["A. Habibi", "A. Z. Musthofa", "E. Adibi", "J. Ekstr&oumlm", "T. Schmidt", "E. H. Hasdeo"],
         "title": "Kerr and Faraday rotations in topological flat and dispersive band structures",

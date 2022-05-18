@@ -1,5 +1,16 @@
 {
   "listJournals": [
+   {
+        "author": ["A. Habibi", "A. Z. Musthofa", "E. Adibi", "J. Ekstr&oumlm", "T. Schmidt", "E. H. Hasdeo"],
+        "title": "Kerr and Faraday rotations in topological flat and dispersive band structures",
+        "journal": "New J. Phys",
+        "volume": "xx",
+        "pages": "xx",
+        "year": 2022,
+        "month": "May",
+        "doi": "https://doi.org/10.1088/1367-2630/ac706d",
+        "preprint": "https://arxiv.org/abs/2103.15085"
+    },
     {
         "author": ["N. T. Hung", "J. M. Adhidewata", "A. R. T. Nugraha", "R. Saito"],
         "title": "Enhanced Thermoelectric Performance by van Hove Singularities in the Density of States of Type-II Nodal-line Semimetals)",

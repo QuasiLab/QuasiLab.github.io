@@ -1,6 +1,17 @@
 {
   "listJournals": [
     {
+        "author": ["M. S. Muntini", "E. Suprayoga", "S. A. Wella", "I. Fatimah", "L. Yuwana", "T. Seetawan", "A. B. Cahaya", "A. R. T. Nugraha", "E. H. Hasdeo"],
+        "title": "Spin-tunable thermoelectric performance in monolayer chromium pnictides",
+        "journal": "Phys. Rev. Mater.",
+        "volume": 6, 
+        "pages": "064010",
+        "year": 2022,
+        "month": "June",
+        "doi": "https://doi.org/10.1103/PhysRevMaterials.6.064010",
+        "preprint": "https://arxiv.org/abs/2112.13229"
+   },
+    {
         "author": ["H. Haryadi", "E. Suprayoga", "E. Suhendi"],
         "title": "An Analysis of Electronic Properties of LaFeO3 using Density Functional Theory with Generalized Gradient Approximation-Perdew-Burke-Ernzerhof Method for Ethanol Gas Sensors",
         "journal": "Materials Research",

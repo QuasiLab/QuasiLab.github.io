@@ -1,38 +1,5 @@
 {
   "listJournals": [
-    {
-        "author": ["M. S. Muntini", "E. Suprayoga", "S. A. Wella", "I. Fatimah", "L. Yuwana", "T. Seetawan", "A. B. Cahaya", "A. R. T. Nugraha", "E. H. Hasdeo"],
-        "title": "Spin-tunable thermoelectric performance in monolayer chromium pnictides",
-        "journal": "Phys. Rev. Mater.",
-        "volume": 6, 
-        "pages": "064010",
-        "year": 2022,
-        "month": "June",
-        "doi": "https://doi.org/10.1103/PhysRevMaterials.6.064010",
-        "preprint": "https://arxiv.org/abs/2112.13229"
-    },
-    {
-        "author": ["Y. Hamamoto", "H. Sawada",  "S. A. Wella", "K. Inagaki", "I. Hamada", "Y. Morikawa"],
-        "title": "Hybridization-Induced Image Potential States with Large Effective Mass in Lead Phthalocyanine Overlayers on Graphene",
-        "journal": "J. Chem. Phys. C",
-        "volume": X, 
-        "pages": "XXXXXX",
-        "year": 2022,
-        "month": "June",
-        "doi": "https://doi.org/10.1021/acs.jpcc.2c01652",
-        "preprint": ""
-    },
-    {
-        "author": ["H. Haryadi", "E. Suprayoga", "E. Suhendi"],
-        "title": "An Analysis of Electronic Properties of LaFeO3 using Density Functional Theory with Generalized Gradient Approximation-Perdew-Burke-Ernzerhof Method for Ethanol Gas Sensors",
-        "journal": "Materials Research",
-        "volume": 25, 
-        "pages": "e20210554",
-        "year": 2022,
-        "month": "May",
-        "doi": "https://doi.org/10.1590/1980-5373-MR-2021-0554",
-        "preprint": ""
-   },
    {
         "author": ["A. Habibi", "A. Z. Musthofa", "E. Adibi", "J. Ekstr&oumlm", "T. Schmidt", "E. H. Hasdeo"],
         "title": "Kerr and Faraday rotations in topological flat and dispersive band structures",
@@ -59,11 +26,11 @@
         "author": ["P. Lubis", "N. Amalia", "S. A. Wella", "Sholihun"],
         "title": "Thermoelectric Properties of Monolayer and Bilayer Buckled <i>X</i>Te (X= Ge, Sn, and Pb)",
         "journal": "Adv. Nat. Sci.: Nanosci. Nanotechnol.",
-        "volume": "13",
-        "pages": "025008",
+        "volume": "in press",
+        "pages": "",
         "year": 2022,
         "month": "March",
-        "doi": "https://doi.org/10.1088/2043-6262/ac7322",
+        "doi": "",
         "preprint": ""
     },
     {

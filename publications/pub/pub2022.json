@@ -114,6 +114,16 @@
   "listProceeds": [
   ],
   "listPreprint": [
+    {
+        "author": ["A. Darmawan", "E. Suprayoga", "A. R. T. Nugraha", "A. A. AlShaikhi"],
+        "title": "Thermoelectrics properties of two-dimensional materials with combination of linear and nonlinear band structures",
+        "journal": "arXiv",
+        "volume": "2205.10603",
+        "pages": "",
+        "year": 2022,
+        "month": "May",
+        "doi": "https://doi.org/10.48550/arXiv.2205.10603"
+     }
   ],
   "listLocalPub": [
     {

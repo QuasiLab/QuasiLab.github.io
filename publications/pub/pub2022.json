@@ -1,5 +1,16 @@
 {
   "listJournals": [
+   {
+        "author": ["Y. Tian", "M. S. Ukhtary", "R. Saito"],
+        "title": "Switching performance of optically generated spin current at the graphene edge",
+        "journal": "Phys. Rev. B",
+        "volume": 106,
+        "pages": "045420",
+        "year": 2022,
+        "month": "July",
+        "doi": "https://doi.org/10.1103/PhysRevB.106.045420",
+        "preprint": ""
+    },
     {
         "author": ["M. S. Muntini", "E. Suprayoga", "S. A. Wella", "I. Fatimah", "L. Yuwana", "T. Seetawan", "A. B. Cahaya", "A. R. T. Nugraha", "E. H. Hasdeo"],
         "title": "Spin-tunable thermoelectric performance in monolayer chromium pnictides",

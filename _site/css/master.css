@@ -1688,3 +1688,11 @@ and (max-height: 300px){
 .posterDesc p{
   margin-bottom: 20px;
 }
+
+.centerImage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding-bottom: 25px;
+}

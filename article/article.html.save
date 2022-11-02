@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewpoint" content="width=device-width, initial-scale=1.0">
+    <title>Quasi.id</title>
+    <link rel="stylesheet" href="/css/master.css">
+    <link rel="stylesheet" href="https://indestructibletype.com/fonts/Jost.css" type="text/css" charset="utf-8">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="undefined" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.3.5/css/swiper.min.css">
+    <link rel="shortcut icon" type="image/x-icon" href="../figures/favicon.ico">
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-LZZRQK2PEY"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-LZZRQK2PEY');
+    </script>
+
+    <!-- To load a html file -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script>
+        $(function() {
+          $("#footer").load("../footer.html");
+        });
+    </script>
+
+  </head>
+  <body>
+
+      <!-- HOME -->
+
+      <section class="researchHeader">
+          <nav>
+            <a href="../index.html"><img src="../figures/logo.png"></a>
+            <div class="nav-links" id="navLinks">
+              <i class="fa fa-window-close" onclick="hideMenu()"></i>
+              <ul>
+                <li><a href="../index.html">Home</a></li>
+                <li><a href="../research/research.html">Research</a></li>
+                <li><a href="../team/team.html">Team</a></li>
+                <li><a href="../publications/pub2022.html">Publications</a></li>
+                <li><a href="../download/download.html">Download</a></li>
+                <li><a href="../tutorial/tutorial.html">Tutorial</a></li>
+                <li><a href="./article.html">Article</a></li>
+                <li><a href="../contact/contact.html">Contact</a></li>
+              </ul>
+            </div>
+            <i class="fa fa-bars" onclick="showMenu()"></i>
+          </nav>
+          <h1>Article</h1>
+      </section>
+
+      <div class="highlightBox">
+      <div class="highBox-item">
+      <div class="highBox-content">
+      <div class="highBox-title">
+        Cerita Sosiofisika
+      </div>
+      <div class="highBox-author">
+        oleh: <a href="../../team/staff/roni012.html">R. Muslim</a>
+      </div>
+      <div class="highBox-abstract">
+
+<--- 
+<p>Beberapa dekade terakhir, para ilmuwan telah mencoba menelaah hubungan antara fisika 
+dengan sosial. Apakah bisa? benar, tidak salah ucap bahwa memang sejauh ini ilmuan "dapat" 
+menjelaskan fenomena sosial dengan kerangka konsep fisika. Mula-mula, sekitar tahun 1925 
+seorang fisikawan bernama Ernst Ising dan supervisor nya Wilhelm Lens mengembangkan teori 
+feromagnetisasi yang telah dipublikasikan dalam bentuk Disertasi yang berjudul Beitrag zur 
+Theorie des Ferromagnetismus [1]. Dalam disertasinya, Ising memperkenalkan suatu variabel 
+diskrit <font face="Symbol">S</font>=&plusmn;1 yang merepresentasikan momen dipol magnetik atom yang dinamakan 
+dengan spin. Ising mendeskripsikan modelnya pada kisi 1 dimensi dan mengamati bahwa tidak 
+terjadi transisi fase. Model tersebut kemudian kita kenal sampai sekarang sebagai model Ising. 
+Selanjutnya sekitar tahun 1944 Lars Onsager mengembangkan model Ising pada kisi dua dimensi 
+dan menemukan secara eksak titik kritis yang membuat sistem mengalami transisi fase [2]. 
+Penelitian selanjutnya menemukan bahwa fenomena semacam ini relatif lebih mudah dipelajari 
+dengan simulasi numerik, misalnya dengan menggunakan metode Monte Carlo dan algoritma 
+Metropolis [3]. 
+</p><br>
+
+<p>
+Sebagai gambaran terkait fenomena transisi fase, dalam kehidupan sehari-hari kita dapat 
+mengamati perubahan bentuk zat, seperti proses pembekuan dari cairan (air) ke solid (es) pada 
+suhu tertentu (sekitar 0 derajat celcius). Dapat dikatakan bahwa, pada fenomena semacam itu, 
+pada suhu di atas 0 derajat celcius molekul H<sub>2</sub>O bergerak bebas di dalam air, akan tetapi ketika 
+suhu mengecil dan mendekati 0 derajat celcius, molekul H<sub>2</sub>O akan "terikat" satu sama lain 
+membentuk es, yang mengindikasikan bahwa suhu kritisnya berada pada suhu 0 derajat 
+celcius. 
+</p><br>
+
+<p>
+Lanjut, dari fenomena model Ising ini, para ilmuwan kemudian memperoleh suatu pencerahan, 
+dimana dengan interaksi sederhana semacam itu memunculkan fenomena makroskopis yang 
+dapat kita amati seperti ada transisi fase dari dua keadaan seperti feromagnetik-antiferomagnetik 
+atau sebaliknya yang “dipisah” oleh suatu titik kritis tertentu. Konsep ini kemudian diterapkan 
+untuk mengamati fenomena sosial seperti bagaimana terjadinya konsensus dan status-quo di 
+tengah masyarakat. Untuk mengamati semacam itu para ilmuwan membuat suatu model yang 
+menjelaskan interaksi sosial. Model semacam ini biasa dikenal dengan model dinamika opini. 
+Model dinamika opini mendeskripsikan suatu aturan interaksi antar individu tunggal di dalam 
+suatu populasi. Pemodelan ini biasanya didasarkan pada pengamatan, pengalaman atau intuisi 
+yang masuk akal dan dirumuskan dalam suatu formulasi matematis. Sebagai contoh model 
+dinamika opini yang cukup terkenal di kalangan sosiofisikawan adalah model Sznajd yang 
+menggambarkan salah satu fenomena sosial yakni validasi sosial seperti yang ditunjukkan pada 
+Gambar 1. 
+</p><br>
+
+<img src="../figures/sosiofisika-2.jpg" alt="sosiofisika-1" class="centerImage"> 
+
+<p>
+<b>Gambar 1:</b> Ilustrasi fenomena validasi sosial berdasarkan model Sznajd. Ditunjukkan bahwa 
+mula-mula seorang melihat ke atas, kemudian orang disekitarnya terpengaruh dan turut 
+melakukan hal yang sama, begitu seterusnya yang pada akhirnya semua berada pada kondisi 
+yang sama, yakni sama-sama melihat ke atas. 
+</p><br>
+
+<p>
+Validasi sosial merupakan suatu fenomena di mana suatu individu akan mengikuti atau 
+menyetujui apa yang individu lain lakukan, terlepas motivasi dibelakangnya. Jika kita berbicara 
+opini, maka tentu saja efek dari validasi sosial ini menghasilkan opini bulat atau kesepakatan 
+penuh. Singkatnya model Sznajd adalah sebagai berikut, jika ada dua individu katakanlah si B 
+dan C, mempengaruhi dua individu tetangga si A dan D, maka si A dan D akan mengikuti si B 
+dan C jika mereka memiliki opini yang sama (sepakat), jika tidak, maka si A dan B akan 
+membentuk pola polarisasi yang menunjukkan bahwa kedua mereka tidak mengikuti opini B dan 
+C [4]. Ilustrasi model Sznajd ditunjukkan pada Gambar 2. 
+</p><br>
+
+<img src="../figures/sosiofisika-4.jpg" alt="sosiofisika-2" class="centerImage"> 
+
+<p><b>Gambar 2:</b> Ilustrasi model Sznajd satu dimensi, sebelum dan sesudah berinteraksi.
+</p><br>
+￼
+<p>Model opini yang lain yang cukup terkenal adalah model aturan mayoritas yang dikembangkan 
+oleh Galam [5]. Model ini menyatakan bahwa jika ada sekelompok kecil orang berinteraksi atau 
+bertukar pendapat di tengah masyarakat, maka opini mayoritas yang akan menang. Ilustrasi 
+model aturan mayoritas ditunjukkan pada Gambar 3. 
+</p><br>
+
+<img src="../figures/sosiofisika-1.jpg" alt="sosiofisika-3" class="centerImage"> 
+
+<p><b>Gambar 3:</b> Ilustrasi model kaidah mayoritas untuk interaksi tiga agen yang dipilih secara acak di 
+dalam populasi.
+</p><br>
+ 
+<p>Mungkin banyak yang tidak setuju dengan konsep sederhana ini, tidak mengapa, penulis juga 
+sepenuhnya tidak setuju mengingat secara psikologi manusia itu sangat kompleks dan secara 
+alamiah sulit untuk diatur, bukan seperti partikel yang merupakan benda mati dan entitas 
+sederhana, akan tetapi ada kalanya manusia pada suatu keadaan tertentu, "secara spontan" 
+memiliki perilaku mirip seperti partikel yakni terbentuk perilaku seragam atau keteraturan yang 
+cukup menakjubkan seperti yang ditunjukkan pada Gambar 4 . Terlepas latar belakang mereka 
+yang berbeda dan dorongan psikologi pada setiap individu, para demonstran pada kondisi 
+tersebut memiliki rasa, opini atau keadaan yang sama karena suatu keadaan yang memaksa 
+mereka untuk demikian. Serge Galam seorang sosiofisikawan mencoba menjelaskan fenomena 
+semacam ini dalam buku sosiofisikanya [6]. 
+</p><br>
+
+<img src="../figures/sosiofisika-3.jpg" alt="sosiofisika-4" class="centerImage"> 
+
+<p><b>Gambar 4:</b> Suatu fenomena demonstrasi yang menggambarkan suatu keadaan dimana semua 
+demonstran memiliki pendapat, perasaan, atau tujuan yang sama terhadap suatu masalah 
+tertentu, terlepas mereka dari berbagai latar belakang yang berbeda [Kompas].</p><br> 
+￼
+
+<p>Kecenderungan individu menjadi serupa disebabkan oleh adanya interaksi, semakin sering 
+individu berinteraksi semakin besar kemungkinan untuk menjadi mirip. Begitu sebaliknya, 
+semakin jarang individu berinteraksi, heterogenitas akan semakin tinggi. Efek semacam ini 
+dinamakan sebagai pengaruh sosial. Fenomena secam ini secara alamiah kita temukan pada 
+model Ising, yakni interaksi spin mengakibatkan spin menjadi homogen disebabkan oleh kopling 
+fermogantik natar spin yang berdekatan. Adapun fenomena antiferomagnetik pada model Ising 
+memiliki perilaku irisan dengan perilaku individu yang dinamakan sebagai individu anti konformis, 
+yang merupakan suatu istilah psikologi sosial yang menjelaskan suatu perilaku atau keadaan 
+individu yang selalu bertolak belakang dengan perilaku orang lain [7]. Perilaku semacam ini 
+menarik untuk dikaji karena memiliki fitur-fitur yang sama dengan fitur-fitur pada fisika statistik. 
+</p><br>
+
+<p>
+<b>Referensi</b><br> 
+[1] Ernst Ising, Contribution to the Theory of Ferromagnetism <br>
+[2] Lars Onsager (1944), Crystal Statistics. I. A Two-Dimensional Model with an Order-Disorder 
+Transition, Physical Review. <br>
+[3] Metropolis, N., Rosenbluth, A. W., Rosenbluth, M. N., Teller, A. H., dan Teller, E. (1953). 
+Equation of state calculations by fast computing machines. The journal of chemical physics , 21 (6), 
+1087-1092. <br>
+[4] Sznajd-Weron, K., & Sznajd, J. (2000). Opinion evolution in closed community. International 
+Journal of Modern Physics C , 11 (06), 1157-1165. <br>
+[5] Galam, S. (2008). Sociophysics: A review of Galam models. International Journal of Modern 
+Physics C , 19 (03), 409-440. <br>
+[6] S. Galam, Sociophysics: A Physicist's Modeling ofPsycho-political Phenomena (Springer- 
+Verlag, New York, 2012). <br>
+[7] Nail, P. R., MacDonald, G., & Levy, D. A. (2000). Proposal of a four-dimensional model of 
+social response. Psychological bulletin , 126 (3), 454. <br>
+</p><br>
+
+      </div>
+	Bersambung ...
+      </div>
+      </div>
+      </div>
+
+    <!-- FOOTER -->
+    <div id="footer"></div>
+
+    <!-- JS FOR TOGGLE MENU -->
+    <script src="../js/navLinks.js"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.3.5/js/swiper.min.js"></script>
+    <script src="../js/scripts.js"></script>
+
+  </body>
+</html>
